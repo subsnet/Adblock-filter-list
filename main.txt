@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 1
+! Version: 2
 ! Title: Adblock Filter List
-! Last modified: 22 Oct 2022 08:14 UTC
-! Expires: 1 hours (update frequency)
+! Last modified: 24 Oct 2022 04:56 UTC
+! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
 
