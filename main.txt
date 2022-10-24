@@ -107,8 +107,9 @@ elements.envato.com##.SQwnu9It
 elements.envato.com##._uPYWdBx.R0yMSq_u
 elements.envato.com##.ddGMEOpL
 elements.envato.com##.ex7gyfzY
-elements.envato.com##.huPvc6Z1.password.LhhBDMVI
-elements.envato.com##.huPvc6Z1.username.LhhBDMVI
+elements.envato.com##.hHFF_PPi
+elements.envato.com##.UHoyWaA1.username.huPvc6Z1
+elements.envato.com##.UHoyWaA1.password.huPvc6Z1
 elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
 elements.envato.com##.m79w7Rxn
 elements.envato.com##.mW_Zeem8
