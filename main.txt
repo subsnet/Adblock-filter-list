@@ -98,7 +98,7 @@ dashboard.supa.ru##.sidebar-nav__item_create-folder.sidebar-nav__item
 dashboard.supa.ru##.video-folders_sub.video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
 dashboard.supa.ru##div.profile__content
 dashboard.supa.ru##h2.profile__title
-dashboard.supa.ru##input.form-control:nth-of-type(2)
+dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:nth-child(2)
 dashboard.supa.ru##li.nav__item:nth-of-type(3)
 supa.ru##.primary.small-size.button
 elements.envato.com##.IApy4UwJ
@@ -362,5 +362,3 @@ www.renderforest.com##.toggle-pass-visibility
 www.renderforest.com##.active.rf-sign-container > div.rf-links-wrap
 www.renderforest.com##.rf-forgot
 www.renderforest.com###cookie_message
-
-google.com##.gNO89b
