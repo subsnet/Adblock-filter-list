@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2
+! Version: 3
 ! Title: Adblock Filter List
-! Last modified: 24 Oct 2022 04:56 UTC
+! Last modified: 14 Nov 2022 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -363,3 +363,14 @@ www.renderforest.com##.toggle-pass-visibility
 www.renderforest.com##.active.rf-sign-container > div.rf-links-wrap
 www.renderforest.com##.rf-forgot
 www.renderforest.com###cookie_message
+artgrid.io##.other-plan
+artgrid.io##.social-login
+artgrid.io##.forgot-pass
+artgrid.io##.join-container
+artgrid.io##.ng-star-inserted.mat-button.sm.art-main-btn-t1.mat-typography
+artgrid.io##.tooglePassword.fa-eye.fa.fas
+artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field-hide-placeholder.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-11.mat-form-field
+artgrid.io##.my-account-container
+artgrid.io##button.mat-menu-item:nth-of-type(1)
+artgrid.io##.ng-star-inserted.art-my-refer
+artgrid.io##.ng-star-inserted.art-my-cart
