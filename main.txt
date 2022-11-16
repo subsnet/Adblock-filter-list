@@ -373,4 +373,4 @@ artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field
 artgrid.io##.my-account-container
 artgrid.io##button.mat-menu-item:nth-of-type(1)
 artgrid.io##.ng-star-inserted.art-my-refer
-artgrid.io##.ng-star-inserted.art-my-cart
+
