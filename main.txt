@@ -137,7 +137,7 @@ id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
 id.freepikcompany.com##.form-item--password.form-item > label
 id.freepikcompany.com##.avatar-wrapper > p
 id.freepikcompany.com##.have-account > p
-id.freepikcompany.com##.span--link.button--no-style
+id.freepikcompany.com##.not-you > p
 id.freepikcompany.com##.not-remember-password
 mpstats.io##.be-footer
 mpstats.io##.be-user-nav.float-right.navbar-nav.nav
