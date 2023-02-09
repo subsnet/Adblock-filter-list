@@ -120,6 +120,12 @@ elements.envato.com##.xMdHBep0
 elements.envato.com##.D8Ruvw9s
 elements.envato.com##.i6e_BsOx
 elements.envato.com##li.CwB8BmDC > .R0yMSq_u
+elements.envato.com##a.hTPaPH.eEdhPi.bQLgCw.sc-cUEOzv.sc-cCjUiG.sc-gYbzsP.bGsCqg.sc-kMjNwy
+elements.envato.com##.bfDBdm.sc-jcMfQk
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(2)
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(1)
+elements.envato.com##.gNEXao.fFXeDi.sc-eJDSGI.sc-dkrFOg.fLJxAw.sc-bcXHqe
+elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
 account.elements.envato.com##.CEHN3Umw
 account.elements.envato.com##.gNwtRiju
 id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
