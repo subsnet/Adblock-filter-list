@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.1
+! Version: 3.1.2
 ! Title: Adblock Filter List
-! Last modified: 09 Feb 2023 15:51 UTC
+! Last modified: 09 Feb 2023 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -361,7 +361,7 @@ www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
 www.flaticon.com##.footer__projects
 id.freepikcompany.com##DIV[class="notification--warning notification"]
 id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-id.freepikcompany.com###gsi_736498_539491
+id.freepikcompany.com###google-sign-button
 www.renderforest.com##.rf-ru.rf-social-login
 www.renderforest.com##.rf-email.rf-input
 www.renderforest.com##.rf-password.rf-input
