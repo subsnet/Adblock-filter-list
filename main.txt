@@ -361,7 +361,7 @@ www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
 www.flaticon.com##.footer__projects
 id.freepikcompany.com##DIV[class="notification--warning notification"]
 id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-||accounts.google.com/gsi/button?theme=outline&size=large&text=continue_with&logo_alignment=center&width=320&click_listener=()%3D%3E%7Bc(De.GOOGLE)%7D&client_id=705648808057-3chuddbr6oahbebib1uh693k02sgfl30.apps.googleusercontent.com&iframe_id=gsi_196327_364100&as=3MVuQd30VntltGyq%2BFl2bA&hl=ru$subdocument
+id.freepikcompany.com###gsi_736498_539491
 www.renderforest.com##.rf-ru.rf-social-login
 www.renderforest.com##.rf-email.rf-input
 www.renderforest.com##.rf-password.rf-input
