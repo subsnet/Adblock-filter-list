@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.1.2
+! Version: 3.2
 ! Title: Adblock Filter List
-! Last modified: 09 Feb 2023 16:28 UTC
+! Last modified: 21 Feb 2023 08:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -80,6 +80,28 @@ create.vista.com##.subscriptionWrapper-2jSZr
 create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
 create.vista.com##.userAvatarWrapper-1_s-3
 create.vista.com##.wrapper-2Pb9k
+create.vista.com##.inputsWrapper-2uewO
+create.vista.com##.socialButtonsWrapper-17B1p
+create.vista.com##.formSeparator-2y42r.typography-body-l
+create.vista.com##.formTitle-1RxKh.typography-marketing-display-s
+create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
+create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
+create.vista.com##.leftSideWrapper-qj5fA
+create.vista.com##.footerWrapper-3SH7S
+create.vista.com###webWidget
+create.vista.com##.userAvatarWrapper-1_s-3
+create.vista.com##.form-17YkF
+create.vista.com##.labelUploadSetting-1a-Pp
+create.vista.com##.iconXXL-2N1Rg.typography-display-m.nameContainer-2j7q6
+create.vista.com##.sidebar-2pLKS
+create.vista.com##.passInputs-18SW8
+create.vista.com##.newPassTitle-3XLGT
+create.vista.com##.submit-130_E
+create.vista.com##.subscriptionWrapper-2jSZr
+create.vista.com##.wrapper-2Pb9k
+create.vista.com##.promocodesWrapper-1hAh4
+create.vista.com##.userAvatarWrapper-3Lh6L
+create.vista.com##.listMembers-JeETS
 dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
 dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
 dashboard.supa.ru##.HW_visible.HW_badge_cont
@@ -113,7 +135,6 @@ elements.envato.com##.UHoyWaA1.password.huPvc6Z1
 elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
 elements.envato.com##.m79w7Rxn
 elements.envato.com##.mW_Zeem8
-elements.envato.com##.pDlQdZTH
 elements.envato.com##.qqLmI2XZ
 elements.envato.com##.rMNRgR0S.mW_Zeem8
 elements.envato.com##.xMdHBep0
@@ -382,3 +403,118 @@ artgrid.io##.ng-star-inserted.art-my-refer
 elements.envato.com##.H5vx7gEB.Y0Fl413W
 
 
+
+! Реклама
+www.epidemicsound.com##.src-mainapp-___MessageContainer__messageContainer___DciBh
+! Бургер
+www.epidemicsound.com##.css-utmdtn
+! Account/Subscriptions
+www.epidemicsound.com##.src-mainapp-subscriptions-components-___SubscriptionActions__subscriptionActionContainer___E8GNr
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div:nth-of-type(1) > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > div:nth-of-type(2) > .css-26f274
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > .css-16uidja.src-mainapp-subscriptions-pages-___PlanInfoBox__text___cA8ev
+! Account/Profile
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(1)
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+! Ссылка на аккаунт в футере
+www.epidemicsound.com##div:nth-of-type(1) > .src-mainapp-components-___Footer__sectionLinkList___BUESa > li:nth-of-type(4) > .src-mainapp-components-___Footer__sectionLink___JgmrM
+! Авторизация
+login.epidemicsound.com##[href="https://www.epidemicsound.com/login-partner"]
+login.epidemicsound.com##[href^="/auth/realms/accounts/login-actions/reset-credentials"]
+login.epidemicsound.com##div.form-row:nth-of-type(2) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(1) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(3) > .form-group
+
+
+
+! Верхняя панель
+telemetr.me##.pr-0.kt-header__topbar
+! Чат снизу
+telemetr.me##.trigger-font-size.trigger-classic.trigger-background
+! Поддержка
+telemetr.me##a.kt-link.kt-footer__menu-link:nth-of-type(1)
+! Профиль
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(1) > form:nth-of-type(1) > .form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(2) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(3) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(4) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(5) > .m-form__group.form-group
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > form
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > label
+telemetr.me###remove_account_form
+telemetr.me###m_user_profile_tab_2 > form > .btn-warning.btn
+
+
+
+! Start free now
+motionarray.com##.user-links > .cta
+! Вкладки в бургере
+motionarray.com##.user-dropdown > div:nth-of-type(2)
+! Суппорт
+motionarray.com##.efr23pf0.intercom-1txmsu1.intercom-launcher-frame
+motionarray.com##.intercom-lightweight-app-launcher-icon-self-serve.intercom-lightweight-app-launcher-icon > svg
+motionarray.com##.intercom-launcher.intercom-lightweight-app-launcher
+! Кнопки слева (раздел аккаунт)
+motionarray.com##[href="/account/details/"]
+motionarray.com##[href="/account/subscription/"]
+motionarray.com##[href="/account/invoices/"]
+motionarray.com##[href="/account/billing/"]
+motionarray.com##[href="/pricing/teams/"]
+! Старый пароль в разделе account/details
+motionarray.com##li.form__item--left.form__item--side-by-side.form__item:nth-of-type(1)
+! Авторизация
+motionarray.com##.login-container.bg-white.mx-auto.sm\:p-16.p-5 > .justify-between.flex
+motionarray.com##.or.z-10.text-\[\#828282\].text-center.text-sm.sm\:mt-8.mt-5.relative
+motionarray.com##.forgot-password.underline
+motionarray.com##.lg\:px-12.sm\:px-8.al-btn.facebook-btn.social-btn.text-white.mr-2.px-0
+motionarray.com##.lg\:px-12.sm\:px-8.sm\:mr-4.al-btn.google-btn.social-btn.text-gray-800.font-bold.mr-2.ml-2.px-0
+motionarray.com##.login-container.sm\:pb-12.sm\:px-12.overflow-y-auto.pt-10.px-6.h-full.w-full > .sm\:mt-8.or.text-center.text-sm.mt-5.relative
+
+
+
+
+! Вход через гугл
+picsart.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=1076413845392-ukovna63hmpicftucqg05oekuaq22p39.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=wWchDOGksUaN7W0U0%2F4U0Q&is_itp=true&channel_id=76ccabf3ded2210d6c64a3508bd1197264b8f73b2b8482da"]
+picsart.com###credential_picker_container
+! Поддержка
+picsart.com##.help-widget-root-d0-0-2-287.help-widget-root-0-2-284
+picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
+! Настройки аккаунта
+picsart.com##.account-root-0-2-70
+picsart.com##.billing-and-subscription-wrapper-0-2-166
+! Авторизация
+
+
+
+
+
+! Реклама баннер
+www.vecteezy.com##.ez-promo-popup--large.session-popup.bundles-promo.ez-promo-popup--right.ez-promo-popup--footer.ez-promo-popup
+! Пункты в бургере
+www.vecteezy.com##li.ez-drop-down__submenu-item > [href="/account/dashboard"]
+www.vecteezy.com##li.ez-drop-down__submenu-item > [href="/account/settings"]
+! Уведомления
+www.vecteezy.com##.notifications-menu__tab.ez-site-header__menu-item
+! Plans
+www.vecteezy.com###menu-group-join-pro > .ez-site-header__menu-item
+! Настройки аккаунта
+www.vecteezy.com##.account-settings__user-edit-form
+! Пункты слева в настройках аккаунта
+www.vecteezy.com##.account-pages-sidebar__nav__link--settings.account-pages-sidebar__nav__link
+www.vecteezy.com##.account-pages-sidebar__nav__link--payments.account-pages-sidebar__nav__link > [href]
+! Кнопка показать профиль
+www.vecteezy.com##.user-profile-header__col.user-profile-header__profile-link > [href]
+! Сообщения уведомления сверху
+www.vecteezy.com##.ez-flash-message--alert.ez-flash-message
+www.vecteezy.com##.site-banner--high-priority.site-banner--teams-nag.site-banner
+! Войти через гугл
+www.vecteezy.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=195117443878-2hppsh80rnm40bts500mbcs414cdrknm.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&context=signup&as=k5v4JMUfYbNDEUYwde5cbQ&is_itp=true&channel_id=373504f278d266c4550"]
+www.vecteezy.com###credential_picker_container
+! Sign Up
+www.vecteezy.com###menu-group-auth > .ez-site-header__menu-item--primary.ez-site-header__menu-item--sign-up.ez-btn--medium.ez-btn.ez-site-header__menu-item
+! Авторизация
+www.vecteezy.com##.social-session-buttons
+www.vecteezy.com##.ez-session-modal__or-divider
+www.vecteezy.com##.ez-session-modal__footer
+www.vecteezy.com##.is-focused.ez-input--password.ez-input--animated-label.ez-input--lg.ez-input
