@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.2
+! Version: 3.2.2
 ! Title: Adblock Filter List
-! Last modified: 21 Feb 2023 08:34 UTC
+! Last modified: 25 Feb 2023 12:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -484,6 +484,15 @@ picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
 picsart.com##.account-root-0-2-70
 picsart.com##.billing-and-subscription-wrapper-0-2-166
 ! Авторизация
+picsart.com##.options-form-root-0-2-473
+picsart.com##.picsart-legal-text-root-0-2-499.text-root-d85-0-2-643.text-root-0-2-462 > p
+picsart.com##.options-form-divider-0-2-461
+picsart.com##.text-field-button-0-2-533.text-field-button-d194-0-2-678.text-field-button-0-2-516
+picsart.com##.recaptcha-legal-root-0-2-570.text-root-d120-0-2-681.text-root-0-2-462 > p
+! Про оплату
+picsart.com##.payment-methods-container-0-2-304
+picsart.com##.settings-invoices-settingsInvoices-0-2-324
+picsart.com##.billing-and-subscription-wrapper-0-2-174 > div > div
 
 
 
