@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 3.2.2
+! Version: 3.2.3
 ! Title: Adblock Filter List
-! Last modified: 25 Feb 2023 12:57 UTC
+! Last modified: 03 June 2023 12:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
 
-
+adheart.me##.sc-7388674b-4.iBpwin.ml-auto
 adheart.me###m_user_profile_tab_3
 adheart.me###m_user_profile_tab_3 > .table-striped.table > thead > tr > th
 adheart.me###m_user_profile_tab_3 > form > .form-group
