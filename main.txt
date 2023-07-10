@@ -571,4 +571,13 @@ discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
 discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
 discord.com##.header-3OsQeK
 
+! Envato снова
+! 2023-07-10 https://elements.envato.com
+elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
+elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
+elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.khsnpo.sc-jegxcv
+
+
 
