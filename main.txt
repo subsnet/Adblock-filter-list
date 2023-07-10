@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.2.3
+! Version: 3.2.4
 ! Title: Adblock Filter List
-! Last modified: 03 June 2023 12:57 UTC
+! Last modified: 10 Jule 2023 17:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -527,3 +527,48 @@ www.vecteezy.com##.social-session-buttons
 www.vecteezy.com##.ez-session-modal__or-divider
 www.vecteezy.com##.ez-session-modal__footer
 www.vecteezy.com##.is-focused.ez-input--password.ez-input--animated-label.ez-input--lg.ez-input
+
+
+
+! Обновление #7 | Update #7
+! 2023-07-10 https://auth0.openai.com
+! Авторизация, лишние моменты
+auth0.openai.com##.c2292b410.c864e0c2d.c27bed2f2
+auth0.openai.com##._button-icon.cfdf7e7ce.ulp-button-icon.c89f1057d
+auth0.openai.com##.cf0e47f86.c080f6e2f.cea0519b1
+auth0.openai.com##.c58cecd1f.ca4b7f6ee.input
+auth0.openai.com##.c7d8a6b34.c4f04ee33.c153a3e93.password.c86ee2179.ccf254d7e
+auth0.openai.com##.c7f8e3f9b.ce6e62a0a
+
+! 2023-07-10 https://chat.openai.com
+! Аккаунт и настройки снизу слева
+chat.openai.com##.group-ui-open\:bg-gray-800.hover\:bg-gray-800.duration-200.transition-colors.text-sm.py-3.px-3.rounded-md.gap-2\.5.items-center.w-full.flex
+
+
+
+! 2023-07-10 https://adheart.me
+! Новая плашка при старте с аккаунтом и данными сверху справа
+adheart.me##.dfuaex.sc-a4f3529e-2
+adheart.me##.ml-auto.wdDcv.sc-12b5ef51-4
+
+
+! 2023-07-10 https://discord.com
+! Уведомление сверху о телефоне
+discord.com##.colorDefault-1e8tQv.notice-2HEN-u
+
+! Панель слева
+discord.com##.tutorialContainer-2jwoiB > .listItem-3SmSlK
+discord.com##.tree-3agP2X
+discord.com##.guilds-2JjMmN.wrapper-1_HaEi
+
+! Панель снизу с аккаунтом настройками
+discord.com##.container-YkUktl
+
+! Панель с кнопками сверху
+discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
+
+! Хэдер в чатах
+discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
+discord.com##.header-3OsQeK
+
+
