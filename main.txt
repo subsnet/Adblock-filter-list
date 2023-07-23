@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 3.2.4
 ! Title: Adblock Filter List
-! Last modified: 10 Jule 2023 17:28 UTC
+! Last modified: 23 Jule 2023 12:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -579,5 +579,6 @@ elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
 elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
 elements.envato.com##.khsnpo.sc-jegxcv
 
+picsart.com##.text-field-button-0-2-740.text-field-button-d89-0-2-789.text-field-button-0-2-757
 
 
