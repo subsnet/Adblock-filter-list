@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.2.4
+! Version: 3.3.0
 ! Title: Adblock Filter List
-! Last modified: 23 Jule 2023 12:28 UTC
+! Last modified: 17 November 2023 15:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -43,23 +43,179 @@ adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(3)
 adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(4)
 adheart.me##div.pt-2.pr-4.pl-4.col-md-12.col-lg-12:nth-of-type(1)
 adheart.me##hr
-artlist.io###forgot-password-btn
-artlist.io##.appearance-none.leading-5.py-4.text-gray-100.shadow-none.focus\:ring-0.focus\:outline-none.outline-none.bg-transparent.text-base.w-full.grow.flex
-artlist.io##.art-wrapper-dropdown.art-hide-on-mobile
-artlist.io##.border-gray-100.border-t-transparent.py-4.rounded
-artlist.io##.bravo.hastext.input-field
-artlist.io##.footer-sign-up
-artlist.io##.go-to-refer
-artlist.io##.headsign
-artlist.io##.inner-text.auth
-artlist.io##.md\:items-center.md\:justify-between.md\:flex.text-gray-200.text-sm.mt-3
-artlist.io##.md\:text-base.md\:items-center.md\:justify-between.md\:flex.rounded-lg.bg-gray-600.text-gray-200.text-sm.p-3
-artlist.io##.or
-artlist.io##.valid.loginemail
-artlist.io##.xl\:inline.lg\:whitespace-nowrap.lg\:text-left.lg\:flex-col.lg\:flex.text-gray-100.text-center.text-base
-artlist.io##div.hastext.input-field > .checkit.password
-artlist.io##div.hastext.input-field:nth-of-type(2)
-artlist.io##div:nth-of-type(4) > .w-full.relative > .border-gray-100.py-4.rounded
+! 2023-07-10 https://adheart.me
+! Новая плашка при старте с аккаунтом и данными сверху справа
+adheart.me##.dfuaex.sc-a4f3529e-2
+adheart.me##.ml-auto.wdDcv.sc-12b5ef51-4
+! 2023-11-17 https://adheart.me
+adheart.me###launcher
+adheart.me##.gWEGbZ.sc-21eb55bf-12 > div > svg
+adheart.me##.ml-auto.iiZZBs.sc-21eb55bf-4
+adheart.me##li.kt-menu__item--rel.kt-menu__item > .btn
+
+
+
+
+
+dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
+dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
+dashboard.supa.ru##.HW_visible.HW_badge_cont
+dashboard.supa.ru##.auth__footer
+dashboard.supa.ru##.auth__header
+dashboard.supa.ru##.auth__social-auth
+dashboard.supa.ru##.billing
+dashboard.supa.ru##.error
+dashboard.supa.ru##.footer
+dashboard.supa.ru##.is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .dropdown.folder__actions > .dropdown-toggle > .fa-w-16.fa-cog.svg-inline--fa
+dashboard.supa.ru##.nav__icon
+dashboard.supa.ru##.personal-discount
+dashboard.supa.ru##.ps.scrollbar-container > .video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
+dashboard.supa.ru##.show.alert-dismissible.alert-success.alert.personal-discount__alert.fade
+dashboard.supa.ru##.sidebar-nav__item_create-folder.sidebar-nav__item
+dashboard.supa.ru##.video-folders_sub.video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
+dashboard.supa.ru##div.profile__content
+dashboard.supa.ru##h2.profile__title
+dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:nth-child(2)
+dashboard.supa.ru##li.nav__item:nth-of-type(3)
+supa.ru##.primary.small-size.button
+
+
+
+
+
+elements.envato.com##.IApy4UwJ
+elements.envato.com##.M_ciPgaF
+elements.envato.com##.SQwnu9It
+elements.envato.com##._uPYWdBx.R0yMSq_u
+elements.envato.com##.ddGMEOpL
+elements.envato.com##.ex7gyfzY
+elements.envato.com##.hHFF_PPi
+elements.envato.com##.UHoyWaA1.username.huPvc6Z1
+elements.envato.com##.UHoyWaA1.password.huPvc6Z1
+elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
+elements.envato.com##.m79w7Rxn
+elements.envato.com##.mW_Zeem8
+elements.envato.com##.qqLmI2XZ
+elements.envato.com##.rMNRgR0S.mW_Zeem8
+elements.envato.com##.xMdHBep0
+elements.envato.com##.D8Ruvw9s
+elements.envato.com##.i6e_BsOx
+elements.envato.com##li.CwB8BmDC > .R0yMSq_u
+elements.envato.com##a.hTPaPH.eEdhPi.bQLgCw.sc-cUEOzv.sc-cCjUiG.sc-gYbzsP.bGsCqg.sc-kMjNwy
+elements.envato.com##.bfDBdm.sc-jcMfQk
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(2)
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(1)
+elements.envato.com##.gNEXao.fFXeDi.sc-eJDSGI.sc-dkrFOg.fLJxAw.sc-bcXHqe
+elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
+account.elements.envato.com##.CEHN3Umw
+account.elements.envato.com##.gNwtRiju
+elements.envato.com##.H5vx7gEB.Y0Fl413W
+! Envato снова
+! 2023-07-10 https://elements.envato.com
+elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
+elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
+elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.khsnpo.sc-jegxcv
+! 2023-11-17 https://account.elements.envato.com
+account.elements.envato.com##.ADrhEmMX
+! 2023-11-17 https://elements.envato.com
+elements.envato.com##.ledPWQ.cGBhOx.sc-bbSZdi.sc-imWYAI > .cIMMqX.sc-imWYAI
+elements.envato.com##.dhvqwu.sc-jxOSlx
+elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
+elements.envato.com##.sc-bbSZdi
+elements.envato.com##input[type="password"]
+elements.envato.com##a[data-testid="forgotUsernameLink"]
+
+
+
+
+
+id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
+id.freepikcompany.com###auth-login-form > div.group
+id.freepikcompany.com###tab-login > .auth__social
+id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
+id.freepikcompany.com##.email
+id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
+id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
+id.freepikcompany.com##.tabs__navigation
+id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
+id.freepikcompany.com##header
+id.freepikcompany.com###sessions > .auth__terms > p
+id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
+id.freepikcompany.com##.form-item--password.form-item > label
+id.freepikcompany.com##.avatar-wrapper > p
+id.freepikcompany.com##.have-account > p
+id.freepikcompany.com##.not-you > p
+id.freepikcompany.com##.not-remember-password
+ru.freepik.com###footer
+ru.freepik.com###go-premium-menu-link
+ru.freepik.com###payment_method_box
+ru.freepik.com###payment_method_box_title
+ru.freepik.com##.banner_1.subscription_banner
+ru.freepik.com##.banner_ref_overlay
+ru.freepik.com##.d-flex.banner_2.subscription_banner
+ru.freepik.com##.device-manager--actions > .container
+ru.freepik.com##.device-manager--list > .container
+ru.freepik.com##.device-manager--top > .container
+ru.freepik.com##.gr-auth__connected
+ru.freepik.com##.link-contributor
+ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+ru.freepik.com##.price_before.banner-upgrade.banner-campaign
+ru.freepik.com##.sticky.sidebar
+ru.freepik.com##.userProfile.boxProfile
+ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+www.freepik.com###footer
+www.freepik.com###go-premium-menu-link
+www.freepik.com###payment_method_box
+www.freepik.com###payment_method_box_title
+www.freepik.com##.banner_1.subscription_banner
+www.freepik.com##.banner_ref_overlay
+www.freepik.com##.d-flex.banner_2.subscription_banner
+www.freepik.com##.device-manager--actions > .container
+www.freepik.com##.device-manager--list > .container
+www.freepik.com##.device-manager--top > .container
+www.freepik.com##.gr-auth__connected
+www.freepik.com##.link-contributor
+www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+www.freepik.com##.price_before.banner-upgrade.banner-campaign
+www.freepik.com##.sticky.sidebar
+www.freepik.com##.userProfile.boxProfile
+www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+id.freepikcompany.com##DIV[class="notification--warning notification"]
+id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+id.freepikcompany.com###google-sign-button
+www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
+www.flaticon.com##.track.btn-small.btn
+www.flaticon.com###payment-method-info
+www.flaticon.com##.checkout-fieldset > label
+www.flaticon.com##.overflow-ellipsis.full-width.btn
+www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
+www.flaticon.com##.current-plan.plan > .mg-none.row
+www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
+www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
+www.flaticon.com##.profile-picture.boxProfile-fields
+www.flaticon.com##.flaticon-link.user-url
+www.flaticon.com##div.profile-block
+www.flaticon.com##.container > div.mg-none.row
+www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
+www.flaticon.com##.footer__projects
+
+
+
+
 create.vista.com###webWidget
 create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
 create.vista.com##.footerWrapper-3SH7S
@@ -102,140 +258,11 @@ create.vista.com##.wrapper-2Pb9k
 create.vista.com##.promocodesWrapper-1hAh4
 create.vista.com##.userAvatarWrapper-3Lh6L
 create.vista.com##.listMembers-JeETS
-dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
-dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
-dashboard.supa.ru##.HW_visible.HW_badge_cont
-dashboard.supa.ru##.auth__footer
-dashboard.supa.ru##.auth__header
-dashboard.supa.ru##.auth__social-auth
-dashboard.supa.ru##.billing
-dashboard.supa.ru##.error
-dashboard.supa.ru##.footer
-dashboard.supa.ru##.is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .dropdown.folder__actions > .dropdown-toggle > .fa-w-16.fa-cog.svg-inline--fa
-dashboard.supa.ru##.nav__icon
-dashboard.supa.ru##.personal-discount
-dashboard.supa.ru##.ps.scrollbar-container > .video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
-dashboard.supa.ru##.show.alert-dismissible.alert-success.alert.personal-discount__alert.fade
-dashboard.supa.ru##.sidebar-nav__item_create-folder.sidebar-nav__item
-dashboard.supa.ru##.video-folders_sub.video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
-dashboard.supa.ru##div.profile__content
-dashboard.supa.ru##h2.profile__title
-dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:nth-child(2)
-dashboard.supa.ru##li.nav__item:nth-of-type(3)
-supa.ru##.primary.small-size.button
-elements.envato.com##.IApy4UwJ
-elements.envato.com##.M_ciPgaF
-elements.envato.com##.SQwnu9It
-elements.envato.com##._uPYWdBx.R0yMSq_u
-elements.envato.com##.ddGMEOpL
-elements.envato.com##.ex7gyfzY
-elements.envato.com##.hHFF_PPi
-elements.envato.com##.UHoyWaA1.username.huPvc6Z1
-elements.envato.com##.UHoyWaA1.password.huPvc6Z1
-elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
-elements.envato.com##.m79w7Rxn
-elements.envato.com##.mW_Zeem8
-elements.envato.com##.qqLmI2XZ
-elements.envato.com##.rMNRgR0S.mW_Zeem8
-elements.envato.com##.xMdHBep0
-elements.envato.com##.D8Ruvw9s
-elements.envato.com##.i6e_BsOx
-elements.envato.com##li.CwB8BmDC > .R0yMSq_u
-elements.envato.com##a.hTPaPH.eEdhPi.bQLgCw.sc-cUEOzv.sc-cCjUiG.sc-gYbzsP.bGsCqg.sc-kMjNwy
-elements.envato.com##.bfDBdm.sc-jcMfQk
-elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(2)
-elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(1)
-elements.envato.com##.gNEXao.fFXeDi.sc-eJDSGI.sc-dkrFOg.fLJxAw.sc-bcXHqe
-elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
-account.elements.envato.com##.CEHN3Umw
-account.elements.envato.com##.gNwtRiju
-id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
-id.freepikcompany.com###auth-login-form > div.group
-id.freepikcompany.com###tab-login > .auth__social
-id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
-id.freepikcompany.com##.email
-id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
-id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
-id.freepikcompany.com##.tabs__navigation
-id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
-id.freepikcompany.com##header
-id.freepikcompany.com###sessions > .auth__terms > p
-id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
-id.freepikcompany.com##.form-item--password.form-item > label
-id.freepikcompany.com##.avatar-wrapper > p
-id.freepikcompany.com##.have-account > p
-id.freepikcompany.com##.not-you > p
-id.freepikcompany.com##.not-remember-password
-mpstats.io##.be-footer
-mpstats.io##.be-user-nav.float-right.navbar-nav.nav
-mpstats.io##.col-xl-12 > .card > .card-body
-mpstats.io##.copy-to-clip.btn-warning.btn-xl.btn
-mpstats.io##.float-right.btn-warning.btn-xs.btn
-mpstats.io##.primary-top-bottom.secondary-right.primary-bottom.trigger-type.cursor-pointer.top-z-index.trigger
-mpstats.io##div.col-md-4.col-sm-6:nth-of-type(1) > .self-align-center.card-border-color-primary.card-border-color.card
-pngtree.com###base-public-login-email-text
-pngtree.com##.Premium-effects-li
-pngtree.com##._ncp-side.xs-hide.stylus-aside
-pngtree.com##.another-login-btn.lr-another
-pngtree.com##.check-login-js.hue-js.stylus-link
-pngtree.com##.clearfix.fl-r.Top-infor
-pngtree.com##.coupon-a-area.coupon-area
-pngtree.com##.feedback-trigger
-pngtree.com##.fl-l.user-infor > .ga-c.user-entry > .user-img
-pngtree.com##.head-notice-div.pr.fl-l.infor-bell > .hue-js.sectionNav-info-link.icon-lingdangtubiao.iconfont.clean_all
-pngtree.com##.language-box.pr.fl-l.pulldown-box > .lang-right2
-pngtree.com##.log-defalut-name.big-tit
-pngtree.com##.log-defalut.big-tit
-pngtree.com##.login-section > .fg-line
-pngtree.com##.login-section > .lr-auto
-pngtree.com##.login-section > .lr-logo
-pngtree.com##.login-section > .rlg-with-box > .lr-not-last.clearfix.share-website
-pngtree.com##.lr-remember
-pngtree.com##.nav-premium.ga-c
-pngtree.com##.nav-pricing
-pngtree.com##.other-account > .password-box > .password_toggle.icon-w_yanjingkai.iconfont
-pngtree.com##.other-account > .password-box > .pwdPut
-pngtree.com##.premium-team.nav-premium
-pngtree.com##.quick-login-username
-pngtree.com##.sectionNav-hd-r
-pngtree.com##.side-group
-pngtree.com##.transform-login-c.transform-login
-pngtree.com##.user-forest
-pngtree.com##.user-panel-id
-pngtree.com##.user-panel-name
-pngtree.com##.user-profile
-pngtree.com##.user-subscriptions
-pngtree.com##.v2-footer
-pngtree.com##.v3-footer-box
-pngtree.com##.v3-head-box > .v3-header > .v3-header-infor > .head-notice-div.pr.infor-bell > .hue-js.sectionNav-info-link.icon-lingdangtubiao.iconfont.clean_all
-pngtree.com##.v3-head-box > .v3-header > .v3-header-infor > .language-box.pr.pulldown-box > .lang-right2
-pngtree.com##.v3-head-box > .v3-header > .v3-header-infor > .user-infor
-pngtree.com##.v3-header > .v3-header-infor > .Beforelogin-boxs > .index-login-reg.base-public-register-button.btn-register
-pngtree.com##.v3-xs-hide.pr.top-collect-box > .icon-star.iconfont
-pngtree.com##.window-register-top-text
-pngtree.com##A[class="stylus-link hue-js action-entrance"]
-ru.freepik.com###footer
-ru.freepik.com###go-premium-menu-link
-ru.freepik.com###payment_method_box
-ru.freepik.com###payment_method_box_title
-ru.freepik.com##.banner_1.subscription_banner
-ru.freepik.com##.banner_ref_overlay
-ru.freepik.com##.d-flex.banner_2.subscription_banner
-ru.freepik.com##.device-manager--actions > .container
-ru.freepik.com##.device-manager--list > .container
-ru.freepik.com##.device-manager--top > .container
-ru.freepik.com##.gr-auth__connected
-ru.freepik.com##.link-contributor
-ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-ru.freepik.com##.price_before.banner-upgrade.banner-campaign
-ru.freepik.com##.sticky.sidebar
-ru.freepik.com##.userProfile.boxProfile
-ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+
+
+
+
+
 segmento-target.ru###Email
 segmento-target.ru###Password
 segmento-target.ru###newTableContainer > table:first-child > tbody:nth-child(2) > tr:first-child > td:first-child > div.tariff-function
@@ -266,6 +293,11 @@ segmento-target.ru##div.page-container:first-child > div.main-content:last-child
 segmento-target.ru##li.hover-line > [href="/Panel/Support"]
 segmento-target.ru##tbody > tr > td.std-tariff > .tariff-content
 segmento-target.ru##thead > tr
+
+
+
+
+
 shop.targethunter.ru##.block-bordered.block-content-full.block-content
 shop.targethunter.ru##.img-lightbox > div
 shop.targethunter.ru##.right_sidebar_content.col-sm-4 > .text-center.th-block-bg
@@ -307,28 +339,96 @@ targethunter.ru##div.flex.socials:nth-of-type(5)
 targethunter.ru##div.flex.socials:nth-of-type(6)
 targethunter.ru##div.row:nth-of-type(1) > .col-md-6 > .block-bordered.block > .block-content-full.block-content
 targethunter.ru##li.hidden-xs:nth-of-type(1) > .bg-white.btn-default.btn
-www.freepik.com###footer
-www.freepik.com###go-premium-menu-link
-www.freepik.com###payment_method_box
-www.freepik.com###payment_method_box_title
-www.freepik.com##.banner_1.subscription_banner
-www.freepik.com##.banner_ref_overlay
-www.freepik.com##.d-flex.banner_2.subscription_banner
-www.freepik.com##.device-manager--actions > .container
-www.freepik.com##.device-manager--list > .container
-www.freepik.com##.device-manager--top > .container
-www.freepik.com##.gr-auth__connected
-www.freepik.com##.link-contributor
-www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-www.freepik.com##.price_before.banner-upgrade.banner-campaign
-www.freepik.com##.sticky.sidebar
-www.freepik.com##.userProfile.boxProfile
-www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+
+
+
+
+
+mpstats.io##.be-footer
+mpstats.io##.be-user-nav.float-right.navbar-nav.nav
+mpstats.io##.col-xl-12 > .card > .card-body
+mpstats.io##.copy-to-clip.btn-warning.btn-xl.btn
+mpstats.io##.float-right.btn-warning.btn-xs.btn
+mpstats.io##.primary-top-bottom.secondary-right.primary-bottom.trigger-type.cursor-pointer.top-z-index.trigger
+mpstats.io##div.col-md-4.col-sm-6:nth-of-type(1) > .self-align-center.card-border-color-primary.card-border-color.card
+
+
+
+
+
+artgrid.io##.other-plan
+artgrid.io##.social-login
+artgrid.io##.forgot-pass
+artgrid.io##input[type="password"]
+artgrid.io##.join-container
+artgrid.io##.ng-star-inserted.mat-button.sm.art-main-btn-t1.mat-typography
+artgrid.io##.tooglePassword.fa-eye.fa.fas
+artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field-hide-placeholder.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-11.mat-form-field
+artgrid.io##.my-account-container
+artgrid.io##button.mat-menu-item:nth-of-type(1)
+artgrid.io##.ng-star-inserted.art-my-refer
+! 2023-11-17 https://artgrid.io
+artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field > .mat-form-field-wrapper
+artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field
+
+
+
+
+
+artlist.io###forgot-password-btn
+artlist.io##.appearance-none.leading-5.py-4.text-gray-100.shadow-none.focus\:ring-0.focus\:outline-none.outline-none.bg-transparent.text-base.w-full.grow.flex
+artlist.io##.art-wrapper-dropdown.art-hide-on-mobile
+artlist.io##.border-gray-100.border-t-transparent.py-4.rounded
+artlist.io##.bravo.hastext.input-field
+artlist.io##.footer-sign-up
+artlist.io##.go-to-refer
+artlist.io##.headsign
+artlist.io##input[type="password"]
+artlist.io##.inner-text.auth
+artlist.io##.md\:items-center.md\:justify-between.md\:flex.text-gray-200.text-sm.mt-3
+artlist.io##.md\:text-base.md\:items-center.md\:justify-between.md\:flex.rounded-lg.bg-gray-600.text-gray-200.text-sm.p-3
+artlist.io##.or
+artlist.io##.valid.loginemail
+artlist.io##.xl\:inline.lg\:whitespace-nowrap.lg\:text-left.lg\:flex-col.lg\:flex.text-gray-100.text-center.text-base
+artlist.io##div.hastext.input-field > .checkit.password
+artlist.io##div.hastext.input-field:nth-of-type(2)
+artlist.io##div:nth-of-type(4) > .w-full.relative > .border-gray-100.py-4.rounded
+! 2023-11-17 https://artlist.io
+artlist.io##.leading-4.text-sm.px-8.py-2.hover\:bg-white.hover\:text-primary.border-white.text-white.disabled\:bg-transparent.disabled\:text-gray-300.bg-transparent.border.transition-smooth.disabled\:border-gray-300.disabled\:bg-gray-300.disabled\:text-primary.disabled\:cursor-not-allowed.rounded-full.font-bold.items-center.justify-center.flex
+artlist.io##.fa-1x.fa-eye.svg-inline--fa
+artlist.io##div.w-full.mb-8:nth-of-type(2) > .w-full.relative > .border-success.border-t-transparent.px-4\.5.sm\:py-4.py-3.rounded.border.items-stretch.w-full.flex
+
+
+
+
+
+www.epidemicsound.com##.src-mainapp-___MessageContainer__messageContainer___DciBh
+! Бургер
+www.epidemicsound.com##.css-utmdtn
+! Account/Subscriptions
+www.epidemicsound.com##.src-mainapp-subscriptions-components-___SubscriptionActions__subscriptionActionContainer___E8GNr
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div:nth-of-type(1) > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > div:nth-of-type(2) > .css-26f274
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > .css-16uidja.src-mainapp-subscriptions-pages-___PlanInfoBox__text___cA8ev
+! Account/Profile
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(1)
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+! Ссылка на аккаунт в футере
+www.epidemicsound.com##div:nth-of-type(1) > .src-mainapp-components-___Footer__sectionLinkList___BUESa > li:nth-of-type(4) > .src-mainapp-components-___Footer__sectionLink___JgmrM
+! Авторизация
+login.epidemicsound.com##[href="https://www.epidemicsound.com/login-partner"]
+login.epidemicsound.com##[href^="/auth/realms/accounts/login-actions/reset-credentials"]
+login.epidemicsound.com##div.form-row:nth-of-type(2) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(1) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(3) > .form-group
+! 2023-11-17 https://login.epidemicsound.com
+login.epidemicsound.com###kc-social-providers > ul
+
+
+
+
+
 www.renderforest.com##.cEvpVc.IllustrationWrapper--mkkba7
 www.renderforest.com##.dDguOE.FooterLinkWrapper--d1f6lp
 www.renderforest.com##.dZkzFv.SocialButtonsWrapper--1rs2uob
@@ -353,36 +453,6 @@ www.renderforest.com##SECTION[class="plans-and-features"]
 www.renderforest.com##SPAN[id="header-user-name"][class="name-text"]
 www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(1) > .eGvBZe.InputContent--1o9vo3j
 www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(2) > .eGvBZe.InputContent--1o9vo3j
-www.twenty20.com###ember1025 > .settings-container > div.container-fluid
-www.twenty20.com###ember1031 > .settings-container > .container-fluid > .row > .col-md-12
-www.twenty20.com###ember1110 > .settings-container > .container-fluid > .row > .col-md-12
-www.twenty20.com##.account-seat-component.margin0tb.row
-www.twenty20.com##.btn-sm.btn-outline.btn
-www.twenty20.com##.licenses-list.container
-www.twenty20.com##.navbar-right.navbar-nav.nav
-www.twenty20.com##.photo-comments
-www.twenty20.com##div.licensed-photo.row
-www.twenty20.com##div.notif-group
-www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
-www.flaticon.com##.track.btn-small.btn
-www.flaticon.com###payment-method-info
-www.flaticon.com##.checkout-fieldset > label
-www.flaticon.com##.overflow-ellipsis.full-width.btn
-www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
-www.flaticon.com##.current-plan.plan > .mg-none.row
-www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
-www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
-www.flaticon.com##.profile-picture.boxProfile-fields
-www.flaticon.com##.flaticon-link.user-url
-www.flaticon.com##div.profile-block
-www.flaticon.com##.container > div.mg-none.row
-www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
-www.flaticon.com##.footer__projects
-id.freepikcompany.com##DIV[class="notification--warning notification"]
-id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-id.freepikcompany.com###google-sign-button
 www.renderforest.com##.rf-ru.rf-social-login
 www.renderforest.com##.rf-email.rf-input
 www.renderforest.com##.rf-password.rf-input
@@ -390,45 +460,20 @@ www.renderforest.com##.toggle-pass-visibility
 www.renderforest.com##.active.rf-sign-container > div.rf-links-wrap
 www.renderforest.com##.rf-forgot
 www.renderforest.com###cookie_message
-artgrid.io##.other-plan
-artgrid.io##.social-login
-artgrid.io##.forgot-pass
-artgrid.io##.join-container
-artgrid.io##.ng-star-inserted.mat-button.sm.art-main-btn-t1.mat-typography
-artgrid.io##.tooglePassword.fa-eye.fa.fas
-artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field-hide-placeholder.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-11.mat-form-field
-artgrid.io##.my-account-container
-artgrid.io##button.mat-menu-item:nth-of-type(1)
-artgrid.io##.ng-star-inserted.art-my-refer
-elements.envato.com##.H5vx7gEB.Y0Fl413W
+! 2023-11-17 https://www.renderforest.com
+www.renderforest.com##.announcement-badge__wrapper
+www.renderforest.com##.fVqwnw.PasswordEyeImg--rrf3gj
+www.renderforest.com##div.xGvIK.InputWrapper--x5e0w8:nth-of-type(2)
+www.renderforest.com##.jRhLdb.SocialButtonsWrapper--1558dpk
+www.renderforest.com##.evVmhg.styled__ChangePasswordButtonWrapper-sc-w9uk5f-0
+www.renderforest.com##.eQJDjz.styled__DeleteAccountButtonWrapper-sc-pmd6wu-0
+www.renderforest.com##.jBXCZi.styled__InvoiceContainer-sc-jot44d-0
+www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
 
 
 
-! Реклама
-www.epidemicsound.com##.src-mainapp-___MessageContainer__messageContainer___DciBh
-! Бургер
-www.epidemicsound.com##.css-utmdtn
-! Account/Subscriptions
-www.epidemicsound.com##.src-mainapp-subscriptions-components-___SubscriptionActions__subscriptionActionContainer___E8GNr
-www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div:nth-of-type(1) > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
-www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR
-www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > div:nth-of-type(2) > .css-26f274
-www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > .css-16uidja.src-mainapp-subscriptions-pages-___PlanInfoBox__text___cA8ev
-! Account/Profile
-www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(1)
-www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
-! Ссылка на аккаунт в футере
-www.epidemicsound.com##div:nth-of-type(1) > .src-mainapp-components-___Footer__sectionLinkList___BUESa > li:nth-of-type(4) > .src-mainapp-components-___Footer__sectionLink___JgmrM
-! Авторизация
-login.epidemicsound.com##[href="https://www.epidemicsound.com/login-partner"]
-login.epidemicsound.com##[href^="/auth/realms/accounts/login-actions/reset-credentials"]
-login.epidemicsound.com##div.form-row:nth-of-type(2) > .form-group
-login.epidemicsound.com##div.form-row:nth-of-type(1) > .form-group
-login.epidemicsound.com##div.form-row:nth-of-type(3) > .form-group
 
 
-
-! Верхняя панель
 telemetr.me##.pr-0.kt-header__topbar
 ! Чат снизу
 telemetr.me##.trigger-font-size.trigger-classic.trigger-background
@@ -444,6 +489,48 @@ telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > form
 telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > label
 telemetr.me###remove_account_form
 telemetr.me###m_user_profile_tab_2 > form > .btn-warning.btn
+
+
+
+
+
+! Вход через гугл
+picsart.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=1076413845392-ukovna63hmpicftucqg05oekuaq22p39.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=wWchDOGksUaN7W0U0%2F4U0Q&is_itp=true&channel_id=76ccabf3ded2210d6c64a3508bd1197264b8f73b2b8482da"]
+picsart.com###credential_picker_container
+! Поддержка
+picsart.com##.help-widget-root-d0-0-2-287.help-widget-root-0-2-284
+picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
+! Настройки аккаунта
+picsart.com##.account-root-0-2-70
+picsart.com##.billing-and-subscription-wrapper-0-2-166
+! Авторизация
+picsart.com##.options-form-root-0-2-473
+picsart.com##.picsart-legal-text-root-0-2-499.text-root-d85-0-2-643.text-root-0-2-462 > p
+picsart.com##.options-form-divider-0-2-461
+picsart.com##.insert-password-form-formContent-0-2-553
+! Про оплату
+picsart.com##.payment-methods-container-0-2-304
+picsart.com##.payment-methods-container
+picsart.com##.settings-invoices-settingsInvoices-0-2-324
+picsart.com##.billing-and-subscription-wrapper-0-2-174 > div > div
+! 2023-11-17 https://picsart.com
+picsart.com##.default.vertical-align-content.otFloatingRoundedIcon
+picsart.com##.insert-password-form-formContent-0-2-1087
+picsart.com##.button-interactive-d219-0-2-1375.button-interactive-0-2-44.button-default-d218-0-2-1374.button-default-0-2-43.button-root-d244-0-2-1379.button-root-0-2-54
+picsart.com##.account-accountForm-0-2-97
+picsart.com##.delete-account-buttonContainer-0-2-149
+picsart.com##.delete-account-text-0-2-146
+picsart.com##.settings-about-field-root-0-2-138
+picsart.com##.user-avatar-uploadContainer-0-2-104
+picsart.com##.pa-uiLib-button-responsive-0-2-145.pa-uiLib-button-primary-0-2-143.pa-uiLib-button-root-0-2-142.account-disabledButton-0-2-101.account-saveChanges-0-2-100
+picsart.com##.plan-details-container-0-2-483
+picsart.com##.payment-methods-container-0-2-498
+picsart.com##.settings-invoices-settingsInvoices-0-2-522
+picsart.com##.billing-and-subscription-wrapper-0-2-178 > div > div
+picsart.com##[type="password"]
+picsart.com##[placeholder="Пароль"]
+
+
 
 
 
@@ -470,115 +557,103 @@ motionarray.com##.forgot-password.underline
 motionarray.com##.lg\:px-12.sm\:px-8.al-btn.facebook-btn.social-btn.text-white.mr-2.px-0
 motionarray.com##.lg\:px-12.sm\:px-8.sm\:mr-4.al-btn.google-btn.social-btn.text-gray-800.font-bold.mr-2.ml-2.px-0
 motionarray.com##.login-container.sm\:pb-12.sm\:px-12.overflow-y-auto.pt-10.px-6.h-full.w-full > .sm\:mt-8.or.text-center.text-sm.mt-5.relative
-
-
-
-
-! Вход через гугл
-picsart.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=1076413845392-ukovna63hmpicftucqg05oekuaq22p39.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=wWchDOGksUaN7W0U0%2F4U0Q&is_itp=true&channel_id=76ccabf3ded2210d6c64a3508bd1197264b8f73b2b8482da"]
-picsart.com###credential_picker_container
-! Поддержка
-picsart.com##.help-widget-root-d0-0-2-287.help-widget-root-0-2-284
-picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
-! Настройки аккаунта
-picsart.com##.account-root-0-2-70
-picsart.com##.billing-and-subscription-wrapper-0-2-166
-! Авторизация
-picsart.com##.options-form-root-0-2-473
-picsart.com##.picsart-legal-text-root-0-2-499.text-root-d85-0-2-643.text-root-0-2-462 > p
-picsart.com##.options-form-divider-0-2-461
-picsart.com##.insert-password-form-formContent-0-2-553
-! Про оплату
-picsart.com##.payment-methods-container-0-2-304
-picsart.com##.settings-invoices-settingsInvoices-0-2-324
-picsart.com##.billing-and-subscription-wrapper-0-2-174 > div > div
+! 2023-11-17 https://motionarray.com
+motionarray.com##div.mt-8 > .relative > .value.input-field
+||assets.motionarray.com/home-banner.*$image
+motionarray.com##div.mt-8 > .relative > .-translate-y-1\/2.top-1\/2.fa-check-circle.fas.floating-check
 
 
 
 
 
-
-! Реклама баннер
-www.vecteezy.com##.ez-promo-popup--large.session-popup.bundles-promo.ez-promo-popup--right.ez-promo-popup--footer.ez-promo-popup
-! Пункты в бургере
-www.vecteezy.com##li.ez-drop-down__submenu-item > [href="/account/dashboard"]
-www.vecteezy.com##li.ez-drop-down__submenu-item > [href="/account/settings"]
-! Уведомления
-www.vecteezy.com##.notifications-menu__tab.ez-site-header__menu-item
-! Plans
-www.vecteezy.com###menu-group-join-pro > .ez-site-header__menu-item
-! Настройки аккаунта
-www.vecteezy.com##.account-settings__user-edit-form
-! Пункты слева в настройках аккаунта
-www.vecteezy.com##.account-pages-sidebar__nav__link--settings.account-pages-sidebar__nav__link
-www.vecteezy.com##.account-pages-sidebar__nav__link--payments.account-pages-sidebar__nav__link > [href]
-! Кнопка показать профиль
-www.vecteezy.com##.user-profile-header__col.user-profile-header__profile-link > [href]
-! Сообщения уведомления сверху
-www.vecteezy.com##.ez-flash-message--alert.ez-flash-message
-www.vecteezy.com##.site-banner--high-priority.site-banner--teams-nag.site-banner
-! Войти через гугл
-www.vecteezy.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=195117443878-2hppsh80rnm40bts500mbcs414cdrknm.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&context=signup&as=k5v4JMUfYbNDEUYwde5cbQ&is_itp=true&channel_id=373504f278d266c4550"]
-www.vecteezy.com###credential_picker_container
-! Sign Up
-www.vecteezy.com###menu-group-auth > .ez-site-header__menu-item--primary.ez-site-header__menu-item--sign-up.ez-btn--medium.ez-btn.ez-site-header__menu-item
-! Авторизация
-www.vecteezy.com##.social-session-buttons
-www.vecteezy.com##.ez-session-modal__or-divider
-www.vecteezy.com##.ez-session-modal__footer
-www.vecteezy.com##.is-focused.ez-input--password.ez-input--animated-label.ez-input--lg.ez-input
+! 2023-11-17 https://ru.tradingview.com
+ru.tradingview.com##.i-active.settings-profile.tv-feed__page
+ru.tradingview.com##.i-active.tv-profile-billing.billing.tv-feed__page
+ru.tradingview.com##.i-active.security.tv-feed__page
 
 
 
-! Обновление #7 | Update #7
-! 2023-07-10 https://auth0.openai.com
-! Авторизация, лишние моменты
-auth0.openai.com##.c2292b410.c864e0c2d.c27bed2f2
-auth0.openai.com##._button-icon.cfdf7e7ce.ulp-button-icon.c89f1057d
-auth0.openai.com##.cf0e47f86.c080f6e2f.cea0519b1
-auth0.openai.com##.c58cecd1f.ca4b7f6ee.input
-auth0.openai.com##.c7d8a6b34.c4f04ee33.c153a3e93.password.c86ee2179.ccf254d7e
-auth0.openai.com##.c7f8e3f9b.ce6e62a0a
 
-! 2023-07-10 https://chat.openai.com
-! Аккаунт и настройки снизу слева
-chat.openai.com##.group-ui-open\:bg-gray-800.hover\:bg-gray-800.duration-200.transition-colors.text-sm.py-3.px-3.rounded-md.gap-2\.5.items-center.w-full.flex
+
+! Keysso не выразается корректно
 
 
 
-! 2023-07-10 https://adheart.me
-! Новая плашка при старте с аккаунтом и данными сверху справа
-adheart.me##.dfuaex.sc-a4f3529e-2
-adheart.me##.ml-auto.wdDcv.sc-12b5ef51-4
+
+
+! 2023-11-17 https://www.grammarly.com
+www.grammarly.com##.social-module_socialButtonsContainer__TeFnr
+www.grammarly.com##input[type="password"]
+www.grammarly.com##.password-module_passwordSuffixContainer__f-hWn
+! 2023-11-17 https://account.grammarly.com
+account.grammarly.com##div > div > div > ._item_1k5q1_47 > ._wrapper_1c8ab_13 > .f1lqnxri._kazaButton_eeij4_3._kazaFormat_eeij4_20.fqlvlsm > ._updateLabel_1k5q1_52
+account.grammarly.com###main > div > div > ._item_1k5q1_47 > ._wrapper_1c8ab_13 > .f1lqnxri._kazaButton_eeij4_3._kazaFormat_eeij4_20.fqlvlsm > ._updateLabel_1k5q1_52
+account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_20._kazaButton_eeij4_3._danger_eeij4_83.fqlvlsm
+
+
+
+
+
+! 2023-11-17 https://auth0.openai.com
+auth0.openai.com##.ce460850a.c01d45ffc
+auth0.openai.com##.c1b0c47a8.cd2e05f8d
+auth0.openai.com##.cb7ee17b4.ca8eca547.cc48745dc
+auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
+auth0.openai.com##[type="password"]
+! 2023-11-17 https://chat.openai.com BUTTON: MY PLAN
+chat.openai.com##nav[role="none"] > a:nth-of-type(1)
+! 2023-11-17 https://chat.openai.com
+chat.openai.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-medium.text-base.text-center.rounded-md.justify-center.items-center.h-12.flex.relative:nth-of-type(2)
+
+
+
 
 
 ! 2023-07-10 https://discord.com
 ! Уведомление сверху о телефоне
 discord.com##.colorDefault-1e8tQv.notice-2HEN-u
-
 ! Панель слева
 discord.com##.tutorialContainer-2jwoiB > .listItem-3SmSlK
 discord.com##.tree-3agP2X
 discord.com##.guilds-2JjMmN.wrapper-1_HaEi
-
 ! Панель снизу с аккаунтом настройками
 discord.com##.container-YkUktl
-
 ! Панель с кнопками сверху
 discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
-
 ! Хэдер в чатах
 discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
 discord.com##.header-3OsQeK
-
-! Envato снова
-! 2023-07-10 https://elements.envato.com
-elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
-elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
-elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
-elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
-elements.envato.com##.khsnpo.sc-jegxcv
-
-picsart.com##.text-field-button-0-2-740.text-field-button-d89-0-2-789.text-field-button-0-2-757
+discord.com##section[aria-label="Пользовательская область"]
+discord.com##div[aria-label="Настроить канал"]
+discord.com##div[aria-label="Создание приглашения"]
+discord.com##button[aria-label="Создать канал"]
+discord.com###channel-context
 
 
+
+
+
+! Leonardo Ai нужен доступ к аккаунту
+
+
+
+
+
+! 2023-11-17 https://www.storyblocks.com
+www.storyblocks.com##div.manageAccount-subsection:nth-of-type(1)
+www.storyblocks.com##div.manageAccount-subsection:nth-of-type(2)
+www.storyblocks.com##.manageSubscriptions-subsection
+www.storyblocks.com###nav-cta
+www.storyblocks.com##.emailSignUpForm-showPassword
+www.storyblocks.com##label[for="show-password"]
+www.storyblocks.com##input[type="password"]
+
+
+
+
+
+! 2023-11-17 https://www.pipiads.com
+www.pipiads.com##input[type="password"]
+www.pipiads.com##.is-no-asterisk.is-required.form-item-password.el-form-item
+www.pipiads.com##.user-center
+www.pipiads.com##.page-order
