@@ -633,7 +633,16 @@ discord.com###channel-context
 
 
 
-! Leonardo Ai нужен доступ к аккаунту
+! 2023-11-18 https://app.leonardo.ai
+app.leonardo.ai##.css-13rbjse
+app.leonardo.ai##.css-1f0xmx1
+app.leonardo.ai##.css-2f1569
+app.leonardo.ai##.css-3vo326
+app.leonardo.ai##.css-v6c1u4
+app.leonardo.ai##input[type="password"]
+app.leonardo.ai###password-label
+app.leonardo.ai##.css-1o23m2h
+app.leonardo.ai##.css-15zvgqv
 
 
 
