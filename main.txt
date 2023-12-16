@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.3.0
+! Version: 3.3.1
 ! Title: Adblock Filter List
-! Last modified: 17 November 2023 15:43 UTC
+! Last modified: 16 December 2023 03:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -570,6 +570,15 @@ motionarray.com##div.mt-8 > .relative > .-translate-y-1\/2.top-1\/2.fa-check-cir
 ru.tradingview.com##.i-active.settings-profile.tv-feed__page
 ru.tradingview.com##.i-active.tv-profile-billing.billing.tv-feed__page
 ru.tradingview.com##.i-active.security.tv-feed__page
+www.tradingview.com##.i-active.settings-profile.tv-feed__page
+www.tradingview.com##.i-active.tv-profile-billing.billing.tv-feed__page
+www.tradingview.com##.i-active.security.tv-feed__page
+ru.tradingview.com##div.container-mUwdHoDf:nth-of-type(2)
+ru.tradingview.com###id_password
+ru.tradingview.com##input[type="password"]
+www.tradingview.com##div.container-mUwdHoDf:nth-of-type(2)
+www.tradingview.com###id_password
+www.tradingview.com##input[type="password"]
 
 
 
