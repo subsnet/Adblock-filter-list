@@ -675,3 +675,15 @@ www.pipiads.com##input[type="password"]
 www.pipiads.com##.is-no-asterisk.is-required.form-item-password.el-form-item
 www.pipiads.com##.user-center
 www.pipiads.com##.page-order
+
+
+
+
+
+
+! 2024-01-25
+targethunter.ru##input[type="password"]
+adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
+
+
+
