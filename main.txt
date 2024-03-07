@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 3.3.4
 ! Title: Adblock Filter List
-! Last modified: 07 March 2024 17:12 UTC
+! Last modified: 07 March 2024 17:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -729,6 +729,23 @@ discord.com##div[aria-label="Настроить канал"]
 discord.com##div[aria-label="Создание приглашения"]
 discord.com##button[aria-label="Создать канал"]
 discord.com###channel-context
+
+! ПКМ по участникам
+discord.com###user-context
+
+! Создать сервер
+discord.com##.tutorialContainer_dc6fde
+
+! Создать ветку через ПКМ по сообщению
+discord.com###message-thread
+discord.com###message-actions-thread
+discord.com##div[aria-label="Создать ветку"]
+
+discord.com##div[aria-label="Ветки"]
+discord.com##div[aria-label="Параметры уведомлений"]
+discord.com##div[aria-label="Закреплённые сообщения"]
+discord.com##div[aria-label="Почта"]
+discord.com##div[aria-label="Помощь"]
 
 
 
