@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.3.3
+! Version: 3.3.4
 ! Title: Adblock Filter List
-! Last modified: 06 March 2024 21:26 UTC
+! Last modified: 07 March 2024 17:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -680,16 +680,31 @@ account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_
 
 
 
-! 2023-11-17 https://auth0.openai.com
 auth0.openai.com##.ce460850a.c01d45ffc
 auth0.openai.com##.c1b0c47a8.cd2e05f8d
 auth0.openai.com##.cb7ee17b4.ca8eca547.cc48745dc
 auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
+
 auth0.openai.com##[type="password"]
-! 2023-11-17 https://chat.openai.com BUTTON: MY PLAN
+auth0.openai.com##.password
+
+auth0.openai.com##._alternate-action
+! или
+auth0.openai.com##.cb3a0b9a1
+
+auth0.openai.com##[data-provider="windowslive"]
+auth0.openai.com##[data-provider="google"]
+auth0.openai.com##[data-provider="apple"]
+
+BUTTON: MY PLAN
 chat.openai.com##nav[role="none"] > a:nth-of-type(1)
-! 2023-11-17 https://chat.openai.com
+
+! Sign Up
 chat.openai.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-medium.text-base.text-center.rounded-md.justify-center.items-center.h-12.flex.relative:nth-of-type(2)
+
+! Collabe subs
+chat.openai.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+
 
 
 
