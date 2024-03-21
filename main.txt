@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.3.5
+! Version: 3.3.7
 ! Title: Adblock Filter List
-! Last modified: 21 March 2024 08:22 UTC
+! Last modified: 21 March 2024 21:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -230,6 +230,7 @@ ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
 ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
 ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
 ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+ru.freepik.com###credential_picker_container
 www.freepik.com###footer
 www.freepik.com###go-premium-menu-link
 www.freepik.com###payment_method_box
@@ -252,6 +253,7 @@ www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
 www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
 www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
 www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+www.freepik.com###credential_picker_container
 www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
 www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
 www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
