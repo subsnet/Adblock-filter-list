@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.3.4
+! Version: 3.3.5
 ! Title: Adblock Filter List
-! Last modified: 07 March 2024 17:52 UTC
+! Last modified: 21 March 2024 08:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -370,6 +370,9 @@ segmento-target.ru##div.page-container:first-child > div.main-content:last-child
 segmento-target.ru##li.hover-line > [href="/Panel/Support"]
 segmento-target.ru##tbody > tr > td.std-tariff > .tariff-content
 segmento-target.ru##thead > tr
+! support
+segmento-target.ru##body > jdiv
+segmento-target.ru###jivo-iframe-container
 
 
 
