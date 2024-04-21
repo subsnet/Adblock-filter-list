@@ -823,6 +823,8 @@ app.leonardo.ai###password-label
 app.leonardo.ai##.css-1o23m2h
 app.leonardo.ai##.css-15zvgqv
 app.leonardo.ai###toast-1
+app.leonardo.ai##.css-1baulvz > svg
+app.leonardo.ai##a[href^="/api/payments"]
 
 
 
