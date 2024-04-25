@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.0
+! Version: 3.4.1
 ! Title: Adblock Filter List
-! Last modified: 25 April 2024 10:30 UTC
+! Last modified: 25 April 2024 14:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -881,4 +881,18 @@ app.photoroom.com##.w-80.z-30.overflow-auto.max-w-\[100vw\].border-misc-border.b
 
 ! Слева снизу кнопки
 app.photoroom.com##button.outline-none.w-full.flex.group > .pl-\[10px\].group-focus-visible\:bg-background-subdued-hover.active\:bg-background-subdued-down.hover\:bg-background-subdued-hover.bg-transparent.duration-200.transition.outline-none.rounded-500.cursor-pointer.group-disabled\:opacity-30.group-focus-visible\:ring-accent-alpha-5.group-focus-visible\:ring-\[3px\].pr-3.py-\[10px\].gap-3.items-center.flex-row.w-60.flex
+
+
+
+
+
+
+
+! 2024-04-25 https://app.flair.ai
+app.flair.ai##.text-zinc-300.p-3.shadow-lime-500\/20.shadow-lg-center.bg-black.rounded-full.right-\[2rem\].bottom-\[2rem\].absolute
+app.flair.ai###radix-\:r1\:
+app.flair.ai###radix-\:r2\:
+app.flair.ai##.active\:shadow-lime-900\/5.hover\:shadow-lime-600\/5.shadow-lime-900\/5.shadow-lg.actve\:text-lime-50.hover\:text-lime-200.text-lime-300.text-sm.active\:text-lime-100.active\:bg-lime-500.hover\:bg-lime-500\/30.bg-lime-500\/10.cursor-pointer.gap-2.justify-center.items-center.flex-row.flex.px-3.py-1.group.box-border.transition-colors.focus-visible\:outline-lime-100.focus-visible\:outline-offset-0.focus-visible\:outline-none.font-semibold.text-center.select-none.rounded-md
+app.flair.ai##button.hover\:border-lime-500.cursor-pointer.hover\:text-lime-500.text-zinc-300.box-border.shadow-md.items-center.justify-center.flex-row.flex.py-2.px-2.my-4.transition-colors.border-zinc-700.border.border-solid.rounded-md.w-full:nth-of-type(1)
+app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
