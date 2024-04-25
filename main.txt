@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.3.10
+! Version: 3.4.0
 ! Title: Adblock Filter List
-! Last modified: 21 April 2024 12:36 UTC
+! Last modified: 25 April 2024 10:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -477,7 +477,8 @@ targethunter.ru##div.flex.socials:nth-of-type(5)
 targethunter.ru##div.flex.socials:nth-of-type(6)
 targethunter.ru##div.row:nth-of-type(1) > .col-md-6 > .block-bordered.block > .block-content-full.block-content
 targethunter.ru##li.hidden-xs:nth-of-type(1) > .bg-white.btn-default.btn
-
+targethunter.ru##input[type="password"]
+adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
 
 
 
@@ -854,9 +855,30 @@ www.pipiads.com##.page-order
 
 
 
-! 2024-01-25
-targethunter.ru##input[type="password"]
-adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
 
+! Кнопки входа соц сетей
+app.photoroom.com###intercom-launcher
+app.photoroom.com###one-tap-sign-in
+app.photoroom.com##.hover\:shadow-google-button
+app.photoroom.com##.focus-visible\:shadow-google-button
+app.photoroom.com##.hover\:bg-facebook-light
+app.photoroom.com##.focus-visible\:bg-facebook-light
+app.photoroom.com##.hover\:shadow-apple-button
+app.photoroom.com##.focus-visible\:shadow-apple-button
+app.photoroom.com##span:contains('или')
+app.photoroom.com##a:contains('Как войти?')
+app.photoroom.com##p:contains('Регистрируясь, вы соглашаетесь с')
 
+! 3 кнопки сверху лог рег про
+app.photoroom.com##.before\:blur-3xl.before\:animate-button-loading-indeterminate-wiggle.before\:w-\[200\%\].before\:h-\[500\%\].before\:top-\[50\%\].before\:hidden.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:transition-transform.text-white.focus-visible\:ring-accent-alpha-5.focus-visible\:bg-background-pro-hover.hover\:bg-background-pro-hover.active\:bg-background-pro-down.bg-background-pro.bg-gradient-to-r.focus-visible\:ring-\[3px\].truncate.max-w-full.disabled\:opacity-30.disabled\:cursor-not-allowed.disabled\:pointer-events-none.duration-200.transition.outline-none.rounded-500.appearance-none.text-center.justify-center.items-center.w-fit.inline-flex.overflow-hidden.relative > .content-to-edge-spacious-px-500.h-10.justify-center.items-center.flex.max-w-full
+app.photoroom.com##.before\:blur-3xl.before\:animate-button-loading-indeterminate-wiggle.before\:w-\[200\%\].before\:h-\[500\%\].before\:top-\[50\%\].before\:hidden.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:transition-transform.text-white.focus-visible\:ring-accent-alpha-5.active\:bg-accent-600.focus-visible\:bg-accent-400.hover\:bg-accent-400.bg-content-accent.focus-visible\:ring-\[3px\].truncate.max-w-full.disabled\:opacity-30.disabled\:cursor-not-allowed.disabled\:pointer-events-none.duration-200.transition.outline-none.rounded-500.appearance-none.text-center.justify-center.items-center.w-fit.inline-flex.overflow-hidden.relative > .content-to-edge-spacious-px-500.h-10.justify-center.items-center.flex.max-w-full
+app.photoroom.com##.before\:blur-3xl.before\:animate-button-loading-indeterminate-wiggle.before\:w-\[200\%\].before\:h-\[500\%\].before\:top-\[50\%\].before\:hidden.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:transition-transform.text-black.focus-visible\:ring-accent-alpha-5.active\:bg-background-subdued-down.focus-visible\:bg-background-subdued-hover.hover\:bg-background-subdued-hover.bg-background-subdued.focus-visible\:ring-\[3px\].truncate.max-w-full.disabled\:opacity-30.disabled\:cursor-not-allowed.disabled\:pointer-events-none.duration-200.transition.outline-none.rounded-500.appearance-none.text-center.justify-center.items-center.w-fit.inline-flex.overflow-hidden.relative > .content-to-edge-spacious-px-500.h-10.justify-center.items-center.flex.max-w-full
+
+! Кнопки в всплывающем меню
+app.photoroom.com##.text-left.py-\[11px\].gap-0\.5.flex-col.flex-1.flex
+! Всплывающее меню
+app.photoroom.com##.w-80.z-30.overflow-auto.max-w-\[100vw\].border-misc-border.border.misc-dropdown-rounding.misc-dropdown-padding.outline-none.shadow-700.bg-white.misc-hairline-spacing.flex-col.flex
+
+! Слева снизу кнопки
+app.photoroom.com##button.outline-none.w-full.flex.group > .pl-\[10px\].group-focus-visible\:bg-background-subdued-hover.active\:bg-background-subdued-down.hover\:bg-background-subdued-hover.bg-transparent.duration-200.transition.outline-none.rounded-500.cursor-pointer.group-disabled\:opacity-30.group-focus-visible\:ring-accent-alpha-5.group-focus-visible\:ring-\[3px\].pr-3.py-\[10px\].gap-3.items-center.flex-row.w-60.flex
 
