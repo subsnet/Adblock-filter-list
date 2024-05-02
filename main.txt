@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.1
+! Version: 3.4.2
 ! Title: Adblock Filter List
-! Last modified: 25 April 2024 14:45 UTC
+! Last modified: 2 May 2024 9:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -808,6 +808,8 @@ discord.com##div[aria-label="Параметры уведомлений"]
 discord.com##div[aria-label="Закреплённые сообщения"]
 discord.com##div[aria-label="Почта"]
 discord.com##div[aria-label="Помощь"]
+discord.com##div[aria-label="Серверы"] + div
+
 
 
 
