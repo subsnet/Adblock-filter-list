@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.2
+! Version: 3.4.3
 ! Title: Adblock Filter List
-! Last modified: 2 May 2024 9:58 UTC
+! Last modified: 7 June 2024 13:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -825,9 +825,12 @@ app.leonardo.ai##input[type="password"]
 app.leonardo.ai###password-label
 app.leonardo.ai##.css-1o23m2h
 app.leonardo.ai##.css-15zvgqv
-app.leonardo.ai###toast-1
 app.leonardo.ai##.css-1baulvz > svg
 app.leonardo.ai##a[href^="/api/payments"]
+! Подписка закончилась
+app.leonardo.ai##.chakra-portal
+app.leonardo.ai###toast-1
+app.leonardo.ai###toast-2
 
 
 
