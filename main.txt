@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.3
+! Version: 3.4.4
 ! Title: Adblock Filter List
-! Last modified: 9 June 2024 11:02 UTC
+! Last modified: 13 June 2024 14:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -133,179 +133,46 @@ elements.envato.com##a[data-testid="forgotUsernameLink"]
 
 
 
+
 ! Авторизация Flaticon
-id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
-id.freepikcompany.com###auth-login-form > div.group
-id.freepikcompany.com###tab-login > .auth__social
-id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
-id.freepikcompany.com##.email
-id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
-id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
-id.freepikcompany.com##.tabs__navigation
-id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
-id.freepikcompany.com##header
-id.freepikcompany.com###sessions > .auth__terms > p
-id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
-id.freepikcompany.com##.form-item--password.form-item > label
-id.freepikcompany.com##.avatar-wrapper > p
-id.freepikcompany.com##.have-account > p
-id.freepikcompany.com##.not-you > p
-id.freepikcompany.com##.not-remember-password
-id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
-id.freepikcompany.com###auth-login-form > div.group
-id.freepikcompany.com###tab-login > .auth__social
-id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
-id.freepikcompany.com##.email
-id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
-id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
-id.freepikcompany.com##.tabs__navigation
-id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
-id.freepikcompany.com##header
-id.freepikcompany.com###sessions > .auth__terms > p
-id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
-id.freepikcompany.com##.form-item--password.form-item > label
-id.freepikcompany.com##.avatar-wrapper > p
-id.freepikcompany.com##.have-account > p
-id.freepikcompany.com##.not-you > p
+id.freepikcompany.com##.have-account
+id.freepikcompany.com###ot-sdk-btn
 id.freepikcompany.com###google-sign-button
+id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+id.freepikcompany.com##.form-item--email
+id.freepikcompany.com##.form-item--password
 id.freepikcompany.com##.not-remember-password
-id.freepikcompany.com##.button--with-icon:nth-of-type(1)
+
 ! Авторизация Freepik
-www.freepik.com###auth-login-form > div > .grecaptcha-badge
-www.freepik.com###auth-login-form > div.group
-www.freepik.com###tab-login > .auth__social
-www.freepik.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
-www.freepik.com##.email
-www.freepik.com##.mg-bottom-lv4.alignc.font-xl.first
-www.freepik.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
-www.freepik.com##.tabs__navigation
-www.freepik.com##.unlink.font-xs.link.auth__session--delete
-www.freepik.com##header
-www.freepik.com###sessions > .auth__terms > p
-www.freepik.com###sessions > .auth__head > .mg-bottom-lv2
-www.freepik.com##.form-item--password.form-item > label
-www.freepik.com##.avatar-wrapper > p
-www.freepik.com##.have-account > p
-www.freepik.com##.not-you > p
-www.freepik.com##.not-remember-password
-www.freepik.com###auth-login-form > div > .grecaptcha-badge
-www.freepik.com###auth-login-form > div.group
-www.freepik.com###tab-login > .auth__social
-www.freepik.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
-www.freepik.com##.email
-www.freepik.com##.mg-bottom-lv4.alignc.font-xl.first
-www.freepik.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
-www.freepik.com##.tabs__navigation
-www.freepik.com##.unlink.font-xs.link.auth__session--delete
-www.freepik.com##header
-www.freepik.com###sessions > .auth__terms > p
-www.freepik.com###sessions > .auth__head > .mg-bottom-lv2
-www.freepik.com##.form-item--password.form-item > label
-www.freepik.com##.avatar-wrapper > p
-www.freepik.com##.have-account > p
-www.freepik.com##.not-you > p
+www.freepik.com##.have-account
+www.freepik.com###ot-sdk-btn
 www.freepik.com###google-sign-button
+www.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+www.freepik.com##.form-item--email
+www.freepik.com##.form-item--password
 www.freepik.com##.not-remember-password
-www.freepik.com##.button--with-icon:nth-of-type(1)
-! Freepik
-ru.freepik.com###footer
-ru.freepik.com###go-premium-menu-link
-ru.freepik.com###payment_method_box
-ru.freepik.com###payment_method_box_title
-ru.freepik.com##.banner_1.subscription_banner
-ru.freepik.com##.banner_ref_overlay
-ru.freepik.com##.d-flex.banner_2.subscription_banner
-ru.freepik.com##.device-manager--actions > .container
-ru.freepik.com##.device-manager--list > .container
-ru.freepik.com##.device-manager--top > .container
-ru.freepik.com##.gr-auth__connected
-ru.freepik.com##.link-contributor
-ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-ru.freepik.com##.price_before.banner-upgrade.banner-campaign
-ru.freepik.com##.sticky.sidebar
-ru.freepik.com##.userProfile.boxProfile
-ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+
+
 ru.freepik.com###credential_picker_container
 ru.freepik.com##a[href^="/profile/me"]
 ru.freepik.com##a[href^="/user/device-manager"]
 ru.freepik.com##a[href^="/profile/my_subscriptions"]
-www.freepik.com###footer
-www.freepik.com###go-premium-menu-link
-www.freepik.com###payment_method_box
-www.freepik.com###payment_method_box_title
-www.freepik.com##.banner_1.subscription_banner
-www.freepik.com##.banner_ref_overlay
-www.freepik.com##.d-flex.banner_2.subscription_banner
-www.freepik.com##.device-manager--actions > .container
-www.freepik.com##.device-manager--list > .container
-www.freepik.com##.device-manager--top > .container
-www.freepik.com##.gr-auth__connected
-www.freepik.com##.link-contributor
-www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-www.freepik.com##.price_before.banner-upgrade.banner-campaign
-www.freepik.com##.sticky.sidebar
-www.freepik.com##.userProfile.boxProfile
-www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+ru.freepik.com###g_id_onload
+ru.freepik.com##.profile-container 
+ru.freepik.com##a[href^="/pricing"]
+ru.freepik.com##a[href^="https://ru.freepik.com/pricing"]
+
+
 www.freepik.com###credential_picker_container
 www.freepik.com##a[href^="/profile/me"]
 www.freepik.com##a[href^="/user/device-manager"]
 www.freepik.com##a[href^="/profile/my_subscriptions"]
-ru.freepik.com###footer
-ru.freepik.com###go-premium-menu-link
-ru.freepik.com###payment_method_box
-ru.freepik.com###payment_method_box_title
-ru.freepik.com##.banner_1.subscription_banner
-ru.freepik.com##.banner_ref_overlay
-ru.freepik.com##.d-flex.banner_2.subscription_banner
-ru.freepik.com##.device-manager--actions > .container
-ru.freepik.com##.device-manager--list > .container
-ru.freepik.com##.device-manager--top > .container
-ru.freepik.com##.gr-auth__connected
-ru.freepik.com##.link-contributor
-ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-ru.freepik.com##.price_before.banner-upgrade.banner-campaign
-ru.freepik.com##.sticky.sidebar
-ru.freepik.com##.userProfile.boxProfile
-ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
-ru.freepik.com###credential_picker_container
-www.freepik.com###footer
-www.freepik.com###go-premium-menu-link
-www.freepik.com###payment_method_box
-www.freepik.com###payment_method_box_title
-www.freepik.com##.banner_1.subscription_banner
-www.freepik.com##.banner_ref_overlay
-www.freepik.com##.d-flex.banner_2.subscription_banner
-www.freepik.com##.device-manager--actions > .container
-www.freepik.com##.device-manager--list > .container
-www.freepik.com##.device-manager--top > .container
-www.freepik.com##.gr-auth__connected
-www.freepik.com##.link-contributor
-www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
-www.freepik.com##.price_before.banner-upgrade.banner-campaign
-www.freepik.com##.sticky.sidebar
-www.freepik.com##.userProfile.boxProfile
-www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
-www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
-www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
-www.freepik.com###credential_picker_container
+www.freepik.com###g_id_onload
+www.freepik.com##.profile-container 
+www.freepik.com##a[href^="/pricing"]
+www.freepik.com##a[href^="https://ru.freepik.com/pricing"]
+
+
 ! Flaticon
 www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
 www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
@@ -342,6 +209,7 @@ www.flaticon.com##.container > div.mg-none.row
 www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
 www.flaticon.com##.footer__projects
 www.flaticon.com###credential_picker_container
+www.flaticon.com###g_id_onload
 
 
 
