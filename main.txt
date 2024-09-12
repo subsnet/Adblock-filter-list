@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.5
+! Version: 3.4.6
 ! Title: Adblock Filter List
-! Last modified: 14 Jule 2024 09:50 UTC
+! Last modified: 12 Sep 2024 10:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -770,3 +770,8 @@ app.flair.ai##.active\:shadow-lime-900\/5.hover\:shadow-lime-600\/5.shadow-lime-
 app.flair.ai##button.hover\:border-lime-500.cursor-pointer.hover\:text-lime-500.text-zinc-300.box-border.shadow-md.items-center.justify-center.flex-row.flex.py-2.px-2.my-4.transition-colors.border-zinc-700.border.border-solid.rounded-md.w-full:nth-of-type(1)
 app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
+
+
+
+
+app.recraft.ai##div.c-htbZpo.c-bZNrxE:nth-of-type(3) > .c-bZNrxE
