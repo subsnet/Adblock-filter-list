@@ -699,6 +699,7 @@ app.leonardo.ai##a[href^="/api/payments"]
 app.leonardo.ai###toast-1
 app.leonardo.ai###toast-2
 app.leonardo.ai##div[aria-label="Notifications-top"]
+app.leonardo.ai##.css-od8jlw
 
 
 
