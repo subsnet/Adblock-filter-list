@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.6
+! Version: 3.4.7
 ! Title: Adblock Filter List
-! Last modified: 12 Sep 2024 10:00 UTC
+! Last modified: 06 Nov 2024 12:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -757,7 +757,9 @@ app.photoroom.com##.w-80.z-30.overflow-auto.max-w-\[100vw\].border-misc-border.b
 ! Слева снизу кнопки
 app.photoroom.com##button.outline-none.w-full.flex.group > .pl-\[10px\].group-focus-visible\:bg-background-subdued-hover.active\:bg-background-subdued-down.hover\:bg-background-subdued-hover.bg-transparent.duration-200.transition.outline-none.rounded-500.cursor-pointer.group-disabled\:opacity-30.group-focus-visible\:ring-accent-alpha-5.group-focus-visible\:ring-\[3px\].pr-3.py-\[10px\].gap-3.items-center.flex-row.w-60.flex
 
-
+app.photoroom.com##.misc-hairline-spacing.flex-col.flex.mt-auto
+app.photoroom.com##.content-to-edge-spacious-px-500.size-h-500.justify-center.items-center.flex.max-w-full
+app.photoroom.com##button.text-black.pl-2\.5.aria-disabled\:opacity-30.aria-disabled\:select-none.aria-disabled\:pointer-events-none.disabled\:opacity-30.disabled\:select-none.disabled\:pointer-events-none.active\:bg-neutral-3.focus-visible\:bg-neutral-2.hover\:bg-neutral-2.misc-dropdown-inner-rounding.cursor-pointer.outline-none.pr-3.gap-3.w-full.flex.component-500:nth-of-type(3)
 
 
 
