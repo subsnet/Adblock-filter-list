@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.9
+! Version: 3.4.10
 ! Title: Adblock Filter List
-! Last modified: 24 Dec 2024 15:46 UTC
+! Last modified: 3 Apr 2025 16:25 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -135,13 +135,13 @@ elements.envato.com##a[data-testid="forgotUsernameLink"]
 
 
 ! Авторизация Flaticon
-id.freepikcompany.com##.have-account
-id.freepikcompany.com###ot-sdk-btn
-id.freepikcompany.com###google-sign-button
-id.freepikcompany.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-id.freepikcompany.com##.form-item--email
-id.freepikcompany.com##.form-item--password
-id.freepikcompany.com##.not-remember-password
+id.freepik.com##.have-account
+id.freepik.com###ot-sdk-btn
+id.freepik.com###google-sign-button
+id.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+id.freepik.com##.form-item--email
+id.freepik.com##.form-item--password
+id.freepik.com##.not-remember-password
 
 ! Авторизация Freepik
 www.freepik.com##.have-account
@@ -171,6 +171,12 @@ www.freepik.com###g_id_onload
 www.freepik.com##.profile-container 
 www.freepik.com##a[href^="/pricing"]
 www.freepik.com##a[href^="https://ru.freepik.com/pricing"]
+
+! Оплата
+ru.freepik.com##._pgy9g70
+www.freepik.com##._pgy9g70
+www.freepik.com##.\$p-30
+ru.freepik.com##.\$p-30
 
 
 ! Flaticon
