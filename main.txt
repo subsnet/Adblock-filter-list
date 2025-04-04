@@ -623,6 +623,8 @@ auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
 
 auth0.openai.com##[type="password"]
 auth0.openai.com##.password
+auth.openai.com##[type="password"]
+auth.openai.com##.password
 
 auth0.openai.com##._alternate-action
 ! или
