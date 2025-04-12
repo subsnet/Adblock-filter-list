@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.12
+! Version: 3.4.13
 ! Title: Adblock Filter List
-! Last modified: 12 Apr 2025 19:36 UTC
+! Last modified: 12 Apr 2025 21:32 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -297,52 +297,62 @@ freepik.com#?#html:-abp-has(h6:-abp-contains(Sound effects generator))
 
 
 
-! Авторизация Flaticon
-id.freepik.com##.have-account
-id.freepik.com###ot-sdk-btn
-id.freepik.com###google-sign-button
-id.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-id.freepik.com##.form-item--email
-id.freepik.com##.form-item--password
-id.freepik.com##.not-remember-password
 
-! Flaticon
-www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
-www.flaticon.com##.track.btn-small.btn
-www.flaticon.com###payment-method-info
-www.flaticon.com##.checkout-fieldset > label
-www.flaticon.com##.overflow-ellipsis.full-width.btn
-www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
-www.flaticon.com##.current-plan.plan > .mg-none.row
-www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
-www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
-www.flaticon.com##.profile-picture.boxProfile-fields
-www.flaticon.com##.flaticon-link.user-url
-www.flaticon.com##div.profile-block
-www.flaticon.com##.container > div.mg-none.row
-www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
-www.flaticon.com##.footer__projects
-www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
-www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
-www.flaticon.com##.track.btn-small.btn
-www.flaticon.com###payment-method-info
-www.flaticon.com##.checkout-fieldset > label
-www.flaticon.com##.overflow-ellipsis.full-width.btn
-www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
-www.flaticon.com##.current-plan.plan > .mg-none.row
-www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
-www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
-www.flaticon.com##.profile-picture.boxProfile-fields
-www.flaticon.com##.flaticon-link.user-url
-www.flaticon.com##div.profile-block
-www.flaticon.com##.container > div.mg-none.row
-www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
-www.flaticon.com##.footer__projects
-www.flaticon.com###credential_picker_container
-www.flaticon.com###g_id_onload
+!!! Авторизация
+freepik.com##.have-account
+freepik.com###ot-sdk-btn
+freepik.com###google-sign-button
+freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+freepik.com##.form-item--email
+freepik.com##.form-item--password
+freepik.com##.not-remember-password
+freepik.com##.sso-button
+
+
+
+!!! Главная страница
+! Цены сверху справа
+flaticon.com##.link-pricing
+! Колокольчик
+flaticon.com###notification-center-menu-trigger
+! Кнопка Редактировать профиль
+flaticon.com###link-profile-me
+! Кнопка Моя подписка 
+flaticon.com###link-profile-subscriptions
+! Панель слева
+flaticon.com###open_panel
+! Гугл вход
+flaticon.com###credential_picker_container
+! Зарегистрироваться
+flaticon.com##.btn-register
+! Футер
+flaticon.com###footer
+flaticon.com##footer
+
+
+
+!!! Страница с профилем
+flaticon.com##.profile-data
+flaticon.com##.btn-options-me
+
+
+
+!!! Страница с подпиской
+! Контейнеры
+flaticon.com##.current-plan__container
+flaticon.com##.billing-info__container
+flaticon.com##.checkout-payment
+! Кнопки
+flaticon.com###button-create-team
+flaticon.com###modal-invoicing-link
+flaticon.com##.btn.modal-state
+flaticon.com###change-payment-method
+flaticon.com##.plan__buttons
+
+
+
+
+
 
 
 
