@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.11
+! Version: 3.4.12
 ! Title: Adblock Filter List
-! Last modified: 12 Apr 2025 00:12 UTC
+! Last modified: 12 Apr 2025 19:36 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -743,32 +743,67 @@ account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_
 
 
 
-auth0.openai.com##.ce460850a.c01d45ffc
-auth0.openai.com##.c1b0c47a8.cd2e05f8d
-auth0.openai.com##.cb7ee17b4.ca8eca547.cc48745dc
-auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
 
-auth0.openai.com##[type="password"]
+!!! Главная страница
+chatgpt.com##button[data-testid="signup-button"]
+! Три точки для удаления проекта
+chatgpt.com##button[data-testid="undefined-button"]
+! Снизу слева кнопка
+chatgpt.com#?#a:-abp-contains(Посмотреть планы)
+
+
+
+!!! Авторизация - почта
+! Альтернативные методы входа
+auth.openai.com##.social-section
+! "зарегистрироваться"
+auth.openai.com##.other-page
+! "или"
+auth.openai.com##.divider-wrapper
+! Юридическое
+auth.openai.com##footer
+
+
+
+!!! Авторизация - пароль
+! Поле с паролем
 auth0.openai.com##.password
-auth.openai.com##[type="password"]
+auth0.openai.com##input[name="password"]
 auth.openai.com##.password
-
+auth.openai.com##input[name="password"]
+! Глазик
+auth0.openai.com##button[data-action="toggle"]
+auth0.openai.com##button[data-action="toggle"]
+! Забыли пароль
+auth0.openai.com##.c262fc189 
+auth0.openai.com##.cd4db727f
+auth0.openai.com##a[href*="password-reset"]
+! Альтернативные методы входа
+auth0.openai.com##.c3bc65d34
+auth0.openai.com##.c6f1ecccc 
+! "зарегистрироваться"
+auth0.openai.com##.ulp-alternate-action
 auth0.openai.com##._alternate-action
-! или
-auth0.openai.com##.cb3a0b9a1
+! "или"
+auth0.openai.com##.c619b1e70
+auth0.openai.com##.cb5e06621
+! Юридическое
+auth0.openai.com##footer
 
-auth0.openai.com##[data-provider="windowslive"]
-auth0.openai.com##[data-provider="google"]
-auth0.openai.com##[data-provider="apple"]
 
-BUTTON: MY PLAN
-chat.openai.com##nav[role="none"] > a:nth-of-type(1)
 
-! Sign Up
-chat.openai.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-medium.text-base.text-center.rounded-md.justify-center.items-center.h-12.flex.relative:nth-of-type(2)
+!!! Меню сверху справа
+chatgpt.com#?#div.gap-2\.5.py-3:-abp-contains(Настроить ChatGPT)
+chatgpt.com#?#div.gap-2\.5.py-3:-abp-contains(Настройки)
+chatgpt.com#?#div.gap-2\.5.py-3:-abp-contains(Обновить план)
 
-! Collabe subs
-chat.openai.com##.px-2.rounded-lg.m-0.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+
+
+!!! Всплывающие окна
+chatgpt.com#?#div[role="dialog"]:-abp-has(h2:-abp-contains(Настроить ChatGPT))
+chatgpt.com#?#div[role="dialog"]:-abp-has(h2:-abp-contains(Настройки))
+
+
 
 
 
