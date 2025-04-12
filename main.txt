@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.13
+! Version: 3.4.14
 ! Title: Adblock Filter List
-! Last modified: 12 Apr 2025 21:32 UTC
+! Last modified: 12 Apr 2025 22:03 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -857,6 +857,24 @@ discord.com##div[aria-label="Закреплённые сообщения"]
 discord.com##div[aria-label="Почта"]
 discord.com##div[aria-label="Помощь"]
 discord.com##div[aria-label="Серверы"] + div
+
+
+
+
+
+
+! Кнопки от аккаунта снизу слева
+midjourney.com##div[id^="headlessui-menu-items"] > *:nth-child(1)
+midjourney.com##div[id^="headlessui-menu-items"] > *:nth-child(2)
+midjourney.com##div[id^="headlessui-menu-items"] > *:nth-child(3)
+midjourney.com##div[id^="headlessui-menu-items"] > *:nth-child(5)
+! Account Settings
+midjourney.com#?#div:-abp-has(p:-abp-contains(Edit your profile and connected accounts))
+! Manage Subscription
+midjourney.com#?#div:-abp-has(p:-abp-contains(Choose the plan that works for you))
+! Магазин Midjoruney
+mag.midjourney.com##html
+
 
 
 
