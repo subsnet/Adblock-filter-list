@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.10
+! Version: 3.4.11
 ! Title: Adblock Filter List
-! Last modified: 3 Apr 2025 16:25 UTC
+! Last modified: 12 Apr 2025 00:12 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -134,6 +134,169 @@ elements.envato.com##a[data-testid="forgotUsernameLink"]
 
 
 
+
+
+!!! Авторизация
+freepik.com##.have-account
+freepik.com###ot-sdk-btn
+freepik.com###google-sign-button
+freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+freepik.com##.form-item--email
+freepik.com##.form-item--password
+freepik.com##.not-remember-password
+freepik.com##.sso-button
+
+
+
+
+
+!!! Главная страница
+! Цены сверху справа
+freepik.com##a[data-cy="top-pricing-link"]
+! Уведомления сверху справа
+ru.freepik.com##button:has(span span:has-text(Уведомления))
+! Кнопка обратной связи
+freepik.com##[data-cy="feedback-button-desktop"]
+freepik.com##footer
+!!! При открытии материала
+freepik.com##button[data-cy="generate-video-button"]
+! Всплывающее окно входа через Google
+freepik.com###credential_picker_container
+
+
+
+
+
+!!! Выпадающее меню при нажатии на профиль
+! Кнопка "Повысить план"
+freepik.com##a[data-cy="upgrade"]
+! Кнопка "Добавить участников"
+freepik.com##button[data-cy="addMember"]
+! Пункт "Подписка"
+freepik.com##div[data-cy="popover-user-my-subscription"]
+! Пункт "Счет"
+freepik.com##div[data-cy="popover-account"]
+! Пункт "Профиль автора"
+freepik.com##div[data-cy="joinCommunity"]
+! Пункт "Discord"
+freepik.com##div[data-cy="joinDiscord"]
+! Пункт "Центр поддержки"
+freepik.com##div[data-cy="helpCenter"]
+
+
+
+
+
+!!! Страницы
+! Профиль
+freepik.com##a[href$="/user/me"]
+freepik.com#?#html:-abp-has(h2:-abp-contains(Детали профиля))
+freepik.com#?#html:-abp-has(h2:-abp-contains(Profile details))
+
+! Устройства
+freepik.com##a[href$="/user/device-manager"]
+ru.freepik.com#?#html:-abp-has(p:-abp-contains(Управление устройствами))
+www.freepik.com#?#html:-abp-has(p:-abp-contains(Device Manager))
+
+! Подписка
+freepik.com##a[href$="/user/my-subscriptions"]
+ru.freepik.com#?#html:-abp-has(h3:-abp-contains(Платежные данные))
+www.freepik.com#?#html:-abp-has(h2:-abp-contains(My subscription))
+! Всплывающее окно
+freepik.com##._pgy9g70
+freepik.com##.\$p-30
+! Важные кнопки
+freepik.com##[data-cy="mySub-plan-upgradePlan-button"]
+freepik.com##[data-cy="mySub-plan-switchToALower-plan-button"]
+freepik.com##[data-cy="mySub-plan-createYourTeam-button"]
+freepik.com##[data-cy="mySub-plan-cancelSubscriptionRenewal-button"]
+freepik.com##[data-cy="mySub-billing-information-billingHistory-button"]
+freepik.com##[data-cy="mySub-billing-information-changeBillingInformation-button"]
+freepik.com##[data-cy="mySub-payment-details-updatePaymentDetails-button"]
+
+
+
+
+
+
+!!! Левая панель
+freepik.com##a[href*="/ai-video-generator"]
+freepik.com##a[href*="/video-upscaler"]
+freepik.com##a[href*="/video-lip-sync"]
+freepik.com##a[href*="/video-soundfx"]
+freepik.com##a[href*="/video-editor"]
+freepik.com##a[href*="/icon-generator"]
+freepik.com##a[href*="/ai-voice-generator"]
+freepik.com##a[data-option="more.tools.aiFreepik"]
+! Снизу кнопка "Другое"
+ru.freepik.com#?#button:-abp-contains(Другое)
+
+
+
+
+
+!!! Pikaso
+! Снизу справа кнопка Help
+freepik.com###headlessui-menu-button-1
+
+! Слева в бургере пункт AI
+freepik.com##a[href="https://www.freepik.com/ai"]
+
+! Кнопка Upgrade for more в разделе кредитов
+freepik.com#?#button:-abp-contains(Upgrade for more)
+! Кнопка See more в разделе кредитов
+freepik.com##a[href^="https://support.freepik.com/s/article/How-many-credits-does-each-tool-consume"]
+
+! Выпадающий профиль сверху справа
+freepik.com#?#div.px-\[25px\]:-abp-has(div:-abp-contains(Credits))
+freepik.com#?#div.px-\[25px\]:-abp-has(button:-abp-contains(Upgrade))
+freepik.com#?#button:-abp-has(span:-abp-contains(Subscription))
+freepik.com#?#button:-abp-has(span:-abp-contains(Account))
+freepik.com#?#button:-abp-has(span:-abp-contains(Creator profile))
+freepik.com#?#button:-abp-has(span:-abp-contains(Join Discord server))
+freepik.com#?#button:-abp-has(span:-abp-contains(Help center))
+
+! В левой панели кнопки
+freepik.com#?#button:-abp-has(span:-abp-contains(Videos))
+freepik.com#?#button:-abp-has(span:-abp-contains(Lip Sync))
+freepik.com#?#button:-abp-has(span:-abp-contains(Sound FX))
+
+! Страницы в Pikaso
+freepik.com#?#html:-abp-has(h2:-abp-contains(Generate Video))
+freepik.com#?#html:-abp-has(h2:-abp-contains(Video Upscale))
+freepik.com#?#html:-abp-has(h2:-abp-contains(Lip Sync))
+freepik.com#?#html:-abp-has(h2:-abp-contains(Sound Effects))
+
+! Страница Ai icon Generator
+freepik.com#?#html:-abp-has(h1:-abp-contains(AI Icon Generator))
+freepik.com#?#html:-abp-has(h1:-abp-contains(Генератор ИИ-иконок))
+
+
+
+
+
+!!! Tunes
+! Профиль сверху справа
+freepik.com##a[href*="freepik.com/profile/my_subscriptions?origin=tunes"]
+! Кнопка вопросика
+freepik.com##button[title="Help and resources"]
+
+! В разделе "Sound effects" кнопка Generate
+freepik.com##a[href*="/sound-effects/generator"]
+
+! Страница генерации звуковых эффектов
+freepik.com#?#html:-abp-has(h6:-abp-contains(Sound effects generator))
+
+
+
+
+
+
+
+
+
+
+
 ! Авторизация Flaticon
 id.freepik.com##.have-account
 id.freepik.com###ot-sdk-btn
@@ -142,42 +305,6 @@ id.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-
 id.freepik.com##.form-item--email
 id.freepik.com##.form-item--password
 id.freepik.com##.not-remember-password
-
-! Авторизация Freepik
-www.freepik.com##.have-account
-www.freepik.com###ot-sdk-btn
-www.freepik.com###google-sign-button
-www.freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-www.freepik.com##.form-item--email
-www.freepik.com##.form-item--password
-www.freepik.com##.not-remember-password
-
-
-ru.freepik.com###credential_picker_container
-ru.freepik.com##a[href^="/profile/me"]
-ru.freepik.com##a[href^="/user/device-manager"]
-ru.freepik.com##a[href^="/profile/my_subscriptions"]
-ru.freepik.com###g_id_onload
-ru.freepik.com##.profile-container 
-ru.freepik.com##a[href^="/pricing"]
-ru.freepik.com##a[href^="https://ru.freepik.com/pricing"]
-
-
-www.freepik.com###credential_picker_container
-www.freepik.com##a[href^="/profile/me"]
-www.freepik.com##a[href^="/user/device-manager"]
-www.freepik.com##a[href^="/profile/my_subscriptions"]
-www.freepik.com###g_id_onload
-www.freepik.com##.profile-container 
-www.freepik.com##a[href^="/pricing"]
-www.freepik.com##a[href^="https://ru.freepik.com/pricing"]
-
-! Оплата
-ru.freepik.com##._pgy9g70
-www.freepik.com##._pgy9g70
-www.freepik.com##.\$p-30
-ru.freepik.com##.\$p-30
-
 
 ! Flaticon
 www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
