@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.14
+! Version: 3.4.15
 ! Title: Adblock Filter List
-! Last modified: 12 Apr 2025 22:03 UTC
+! Last modified: 17 Apr 2025 19:43 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -756,10 +756,14 @@ account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_
 
 !!! Главная страница
 chatgpt.com##button[data-testid="signup-button"]
-! Три точки для удаления проекта
-chatgpt.com##button[data-testid="undefined-button"]
 ! Снизу слева кнопка
 chatgpt.com#?#a:-abp-contains(Посмотреть планы)
+! Создать проект
+chatgpt.com##button[aria-label="Создать новый проект"]
+! Три точки у проекта > Удалить проект
+chatgpt.com##ul[aria-labelledby="snorlax-heading"] > div > a > div:nth-child(3)
+! Три точки при активном проекте > Удалить проект
+chatgpt.com##button[aria-label="Показать подробности проекта"]
 
 
 
