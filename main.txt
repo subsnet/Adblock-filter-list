@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.15
+! Version: 3.4.16
 ! Title: Adblock Filter List
-! Last modified: 17 Apr 2025 19:43 UTC
+! Last modified: 17 Apr 2025 19:52 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -287,6 +287,8 @@ freepik.com##a[href*="/sound-effects/generator"]
 ! Страница генерации звуковых эффектов
 freepik.com#?#html:-abp-has(h6:-abp-contains(Sound effects generator))
 
+! Video to sound effects генерация
+freepik.com#?#html:-abp-has(h6:-abp-contains(Video to sound effects (MMaudio)))
 
 
 
