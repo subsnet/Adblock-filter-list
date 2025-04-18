@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.16
+! Version: 3.4.17
 ! Title: Adblock Filter List
-! Last modified: 17 Apr 2025 19:52 UTC
+! Last modified: 18 Apr 2025 12:34 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -805,6 +805,18 @@ auth0.openai.com##.c619b1e70
 auth0.openai.com##.cb5e06621
 ! Юридическое
 auth0.openai.com##footer
+
+
+
+!!! Авторизация другая версия
+auth.openai.com##.react-aria-TextField:nth-child(2)
+auth.openai.com##._forgotPassword_a7dpu_1
+auth.openai.com##._base_1w9eg_57
+auth.openai.com##._root_1lvsi_1
+auth.openai.com##._footer_208f1_74
+auth.openai.com##button[value="google"]
+auth.openai.com##button[value="microsoft"]
+auth.openai.com##button[value="apple"]
 
 
 
