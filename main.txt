@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.17
+! Version: 3.4.18
 ! Title: Adblock Filter List
-! Last modified: 18 Apr 2025 12:34 UTC
+! Last modified: 23 Apr 2025 18:16 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -270,6 +270,14 @@ freepik.com#?#html:-abp-has(h2:-abp-contains(Sound Effects))
 ! Страница Ai icon Generator
 freepik.com#?#html:-abp-has(h1:-abp-contains(AI Icon Generator))
 freepik.com#?#html:-abp-has(h1:-abp-contains(Генератор ИИ-иконок))
+
+! Нейро фотосессии (5500 кредитов)
+freepik.com#?#div:-abp-has(button:-abp-contains(New character))
+freepik.com#?#div:-abp-has(button:-abp-contains(Create your character))
+freepik.com#?#div:-abp-has(button:-abp-contains(New object))
+freepik.com#?#div:-abp-has(button:-abp-contains(Create your object))
+freepik.com#?#button:has(span:has-text(Character))
+freepik.com#?#button:has(span:has-text(Object))
 
 
 
