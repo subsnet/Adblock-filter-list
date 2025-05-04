@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.18
+! Version: 3.4.19
 ! Title: Adblock Filter List
-! Last modified: 23 Apr 2025 18:16 UTC
+! Last modified: 4 May 2025 11:28 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -301,6 +301,12 @@ freepik.com#?#html:-abp-has(h6:-abp-contains(Video to sound effects (MMaudio)))
 
 
 
+!!! Assistant
+freepik.com#?#div:-abp-has(button:-abp-contains(GPT-4o))
+freepik.com#?#div:-abp-has(button:-abp-contains(GGPT-4o - High))
+freepik.com#?#a:-abp-has(button:-abp-contains(Assistant))
+freepik.com##a[href*="/pikaso/assistant"]
+freepik.com##a[data-option="more.tools.aiassistant"]
 
 
 
@@ -358,6 +364,10 @@ flaticon.com###modal-invoicing-link
 flaticon.com##.btn.modal-state
 flaticon.com###change-payment-method
 flaticon.com##.plan__buttons
+
+
+
+
 
 
 
