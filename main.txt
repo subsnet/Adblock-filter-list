@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.19
+! Version: 3.4.20
 ! Title: Adblock Filter List
-! Last modified: 4 May 2025 11:28 UTC
+! Last modified: 18 June 2025 19:28 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -848,8 +848,8 @@ chatgpt.com#?#div.gap-2\.5.py-3:-abp-contains(Обновить план)
 !!! Всплывающие окна
 chatgpt.com#?#div[role="dialog"]:-abp-has(h2:-abp-contains(Настроить ChatGPT))
 chatgpt.com#?#div[role="dialog"]:-abp-has(h2:-abp-contains(Настройки))
-
-
+! Плашка с оплатой
+chatgpt.com##.border-main-surface-secondary
 
 
 
