@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.20
+! Version: 3.4.21
 ! Title: Adblock Filter List
-! Last modified: 18 June 2025 19:28 UTC
+! Last modified: 01 August 2025 04:58 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -721,6 +721,7 @@ motionarray.com##[href="/pricing/teams/"]
 ! Старый пароль в разделе account/details
 motionarray.com##li.form__item--left.form__item--side-by-side.form__item:nth-of-type(1)
 ! Авторизация
+motionarray.com##input[type="password"]
 motionarray.com##.login-container.bg-white.mx-auto.sm\:p-16.p-5 > .justify-between.flex
 motionarray.com##.or.z-10.text-\[\#828282\].text-center.text-sm.sm\:mt-8.mt-5.relative
 motionarray.com##.forgot-password.underline
@@ -732,6 +733,9 @@ motionarray.com##div.mt-8 > .relative > .value.input-field
 ||assets.motionarray.com/home-banner.*$image
 motionarray.com##div.mt-8 > .relative > .-translate-y-1\/2.top-1\/2.fa-check-circle.fas.floating-check
 
+! NEW
+! Страница профиля
+motionarray.com#?#html:-abp-has(h2:-abp-contains(Personal Details))
 
 
 
