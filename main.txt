@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.21
+! Version: 3.4.22
 ! Title: Adblock Filter List
-! Last modified: 01 August 2025 04:58 UTC
+! Last modified: 29 August 2025 10:58 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -1012,3 +1012,20 @@ app.flair.ai##.my-2.items-center.flex-row.flex.w-full
 
 
 app.recraft.ai##div.c-htbZpo.c-bZNrxE:nth-of-type(3) > .c-bZNrxE
+
+
+
+
+
+
+
+
+
+
+heygen.com##input[type="password"]
+heygen.com##iconpark-icon[name="lock"]
+heygen.com##iconpark-icon[name="eye-invisible"]
+heygen.com##iframe[title='Диалоговое окно "Войти с аккаунтом Google"']
+heygen.com##iframe[title="Intercom live chat"]
+heygen.com##iframe[title="Intercom notifications сообщение"]
+heygen.com#?#html:-abp-has(div:-abp-contains(Subscriptions & API))
