@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.24
+! Version: 3.4.25
 ! Title: Adblock Filter List
-! Last modified: 12 September 2025 09:56 UTC
+! Last modified: 22 September 2025 15:00 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -1039,6 +1039,17 @@ gemini.google.com##a[aria-label^="Аккаунт Google:"]
 
 accounts.google.com##.v8aRxf
 accounts.google.com##.Hy62Fc
+
+
+
+
+app.runwayml.com##.menuItem-pOHhQH:nth-of-type(-n+3)
+app.runwayml.com##.menuItem-pOHhQH:nth-of-type(6)
+app.runwayml.com##.SharedCreditsDropdownElements__Actions-gvpLOn
+app.runwayml.com##.SharedCreditsDropdownElements__Row-eLeRHw
+app.runwayml.com##input[type="password"]
+
+
 
 
 
