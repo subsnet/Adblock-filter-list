@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.25
+! Version: 3.4.26
 ! Title: Adblock Filter List
-! Last modified: 22 September 2025 15:00 UTC
+! Last modified: 24 September 2025 16:40 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -875,7 +875,13 @@ discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
 ! Хэдер в чатах
 discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
 discord.com##.header-3OsQeK
-discord.com##section[aria-label="Пользовательская область"]
+# discord.com##section[aria-label="Пользовательская область"]
+discord.com##.header__5be3e
+discord.com##.username_ce8328
+discord.com##.buttons__37e49
+discord.com##.overlay_c0bea0:nth-child(1)
+discord.com##.menuOverlay_ce8328:nth-child(1)
+
 discord.com##div[aria-label="Настроить канал"]
 discord.com##div[aria-label="Создание приглашения"]
 discord.com##button[aria-label="Создать канал"]
@@ -1048,6 +1054,7 @@ app.runwayml.com##.menuItem-pOHhQH:nth-of-type(6)
 app.runwayml.com##.SharedCreditsDropdownElements__Actions-gvpLOn
 app.runwayml.com##.SharedCreditsDropdownElements__Row-eLeRHw
 app.runwayml.com##input[type="password"]
+
 
 
 
