@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 3.4.27
+! Version: 3.5.0
 ! Title: Adblock Filter List
-! Last modified: 18 November 2025 10:25 UTC
+! Last modified: 23 March 2026 16:27 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -1057,6 +1057,72 @@ app.runwayml.com##input[type="password"]
 
 
 
+
+
+
+dzine.ai###credential_picker_container
+dzine.ai##.profile-box
+dzine.ai##.start-for-free-btn
+dzine.ai##.sign-types .google
+dzine.ai##input[type="password"]
+dzine.ai##.password
+dzine.ai##.input-icon
+dzine.ai##.forgot
+
+
+
+
+higgsfield.ai###credential_picker_container
+higgsfield.ai###header-promotion
+higgsfield.ai###account-layout-content
+higgsfield.ai###widget-account-layout-menu
+higgsfield.ai##input[type="password"]
+higgsfield.ai##a[href="/pricing"]
+
+
+
+
+
+grok.com###credential_picker_container
+grok.com##a[href="/sign-up"]
+grok.com#?#button:-abp-contains(Аккаунт)
+grok.com#?#button:-abp-contains(Управление данными)
+accounts.x.ai##input[type="password"]
+accounts.x.ai##input[name="password"]
+accounts.x.ai##div.gap-1.flex-col.flex:nth-of-type(2)
+
+
+
+
+
+claude.ai###credential_picker_container
+
+claude.ai##.overflow-visible.flex-shrink-0.gap-2.items-center.flex
+claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-300.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(3)
+claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-300.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(2)
+claude.ai##a.\[\&\[data-highlighted\]\]\:text-text-000.\[\&\[data-highlighted\]\]\:bg-bg-300.select-none.outline-none.items-center.gap-2.grid-cols-\[minmax\(0\,_1fr\)_auto\].grid.text-ellipsis.overflow-hidden.whitespace-nowrap.cursor-pointer.rounded-lg.py-1\.5.px-2.min-h-8.font-base:nth-of-type(1)
+
+claude.ai#?#body:-abp-has(label:-abp-contains(LWhat should Claude call you?))
+claude.ai#?#body:-abp-has(label:-abp-contains(Log out of all devices))
+claude.ai#?#body:-abp-has(div:-abp-contains(Generate memory from chat history))
+claude.ai#?#body:-abp-has(p:-abp-contains(Allow Claude to reference other apps and services for more context.))
+claude.ai#?#body:-abp-has(h2:-abp-contains(Manage your authorization tokens))
+
+claude.ai##.transition-colors.hover\:bg-bg-300.border-transparent.bg-bg-200.pt-2\.5.pb-2.border-t-0.rounded-b-xl.-mt-1.-mb-1.px-3\.5.z-0.relative.border-0\.5.w-full
+
+
+
+
+
+
+
+app.synthesys.live###credential_picker_container
+app.synthesys.live##div.hZpqCo.sc-hybRYi:nth-of-type(2)
+app.synthesys.live##div.ekSvdF.sc-czkgLR:nth-of-type(1)
+app.synthesys.live##div.ekSvdF.sc-czkgLR:nth-of-type(4)
+
+app.synthesys.live#?#body:-abp-has(label:-abp-contains(New Password))
+app.synthesys.live#?#body:-abp-has(p:-abp-contains(Subscription details))
 
 
 
