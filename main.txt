@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 3.5.0
 ! Title: Adblock Filter List
-! Last modified: 23 March 2026 16:27 UTC
+! Last modified: 29 April 2026 08:53 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://subsnet.app
 !
@@ -137,14 +137,14 @@ elements.envato.com##a[data-testid="forgotUsernameLink"]
 
 
 !!! Авторизация
-freepik.com##.have-account
-freepik.com###ot-sdk-btn
-freepik.com###google-sign-button
-freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-freepik.com##.form-item--email
-freepik.com##.form-item--password
-freepik.com##.not-remember-password
-freepik.com##.sso-button
+magnific.com##.have-account
+magnific.com###ot-sdk-btn
+magnific.com###google-sign-button
+magnific.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+magnific.com##.form-item--email
+magnific.com##.form-item--password
+magnific.com##.not-remember-password
+magnific.com##.sso-button
 
 
 
@@ -152,16 +152,16 @@ freepik.com##.sso-button
 
 !!! Главная страница
 ! Цены сверху справа
-freepik.com##a[data-cy="top-pricing-link"]
+magnific.com##a[data-cy="top-pricing-link"]
 ! Уведомления сверху справа
-ru.freepik.com##button:has(span span:has-text(Уведомления))
+magnific.com##button:has(span span:has-text(Уведомления))
 ! Кнопка обратной связи
-freepik.com##[data-cy="feedback-button-desktop"]
-freepik.com##footer
+magnific.com##[data-cy="feedback-button-desktop"]
+magnific.com##footer
 !!! При открытии материала
-freepik.com##button[data-cy="generate-video-button"]
+magnific.com##button[data-cy="generate-video-button"]
 ! Всплывающее окно входа через Google
-freepik.com###credential_picker_container
+magnific.com###credential_picker_container
 
 
 
@@ -169,19 +169,19 @@ freepik.com###credential_picker_container
 
 !!! Выпадающее меню при нажатии на профиль
 ! Кнопка "Повысить план"
-freepik.com##a[data-cy="upgrade"]
+magnific.com##a[data-cy="upgrade"]
 ! Кнопка "Добавить участников"
-freepik.com##button[data-cy="addMember"]
+magnific.com##button[data-cy="addMember"]
 ! Пункт "Подписка"
-freepik.com##div[data-cy="popover-user-my-subscription"]
+magnific.com##div[data-cy="popover-user-my-subscription"]
 ! Пункт "Счет"
-freepik.com##div[data-cy="popover-account"]
+magnific.com##div[data-cy="popover-account"]
 ! Пункт "Профиль автора"
-freepik.com##div[data-cy="joinCommunity"]
+magnific.com##div[data-cy="joinCommunity"]
 ! Пункт "Discord"
-freepik.com##div[data-cy="joinDiscord"]
+magnific.com##div[data-cy="joinDiscord"]
 ! Пункт "Центр поддержки"
-freepik.com##div[data-cy="helpCenter"]
+magnific.com##div[data-cy="helpCenter"]
 
 
 
@@ -189,30 +189,30 @@ freepik.com##div[data-cy="helpCenter"]
 
 !!! Страницы
 ! Профиль
-freepik.com##a[href$="/user/me"]
-freepik.com#?#html:-abp-has(h2:-abp-contains(Детали профиля))
-freepik.com#?#html:-abp-has(h2:-abp-contains(Profile details))
+magnific.com##a[href$="/user/me"]
+magnific.com#?#html:-abp-has(h2:-abp-contains(Детали профиля))
+magnific.com#?#html:-abp-has(h2:-abp-contains(Profile details))
 
 ! Устройства
-freepik.com##a[href$="/user/device-manager"]
-ru.freepik.com#?#html:-abp-has(p:-abp-contains(Управление устройствами))
-www.freepik.com#?#html:-abp-has(p:-abp-contains(Device Manager))
+magnific.com##a[href$="/user/device-manager"]
+magnific.com#?#html:-abp-has(p:-abp-contains(Управление устройствами))
+www.magnific.com#?#html:-abp-has(p:-abp-contains(Device Manager))
 
 ! Подписка
-freepik.com##a[href$="/user/my-subscriptions"]
-ru.freepik.com#?#html:-abp-has(h3:-abp-contains(Платежные данные))
-www.freepik.com#?#html:-abp-has(h2:-abp-contains(My subscription))
+magnific.com##a[href$="/user/my-subscriptions"]
+magnific.com#?#html:-abp-has(h3:-abp-contains(Платежные данные))
+www.magnific.com#?#html:-abp-has(h2:-abp-contains(My subscription))
 ! Всплывающее окно
-freepik.com##._pgy9g70
-freepik.com##.\$p-30
+magnific.com##._pgy9g70
+magnific.com##.\$p-30
 ! Важные кнопки
-freepik.com##[data-cy="mySub-plan-upgradePlan-button"]
-freepik.com##[data-cy="mySub-plan-switchToALower-plan-button"]
-freepik.com##[data-cy="mySub-plan-createYourTeam-button"]
-freepik.com##[data-cy="mySub-plan-cancelSubscriptionRenewal-button"]
-freepik.com##[data-cy="mySub-billing-information-billingHistory-button"]
-freepik.com##[data-cy="mySub-billing-information-changeBillingInformation-button"]
-freepik.com##[data-cy="mySub-payment-details-updatePaymentDetails-button"]
+magnific.com##[data-cy="mySub-plan-upgradePlan-button"]
+magnific.com##[data-cy="mySub-plan-switchToALower-plan-button"]
+magnific.com##[data-cy="mySub-plan-createYourTeam-button"]
+magnific.com##[data-cy="mySub-plan-cancelSubscriptionRenewal-button"]
+magnific.com##[data-cy="mySub-billing-information-billingHistory-button"]
+magnific.com##[data-cy="mySub-billing-information-changeBillingInformation-button"]
+magnific.com##[data-cy="mySub-payment-details-updatePaymentDetails-button"]
 
 
 
@@ -220,16 +220,16 @@ freepik.com##[data-cy="mySub-payment-details-updatePaymentDetails-button"]
 
 
 !!! Левая панель
-freepik.com##a[href*="/ai-video-generator"]
-freepik.com##a[href*="/video-upscaler"]
-freepik.com##a[href*="/video-lip-sync"]
-freepik.com##a[href*="/video-soundfx"]
-freepik.com##a[href*="/video-editor"]
-freepik.com##a[href*="/icon-generator"]
-freepik.com##a[href*="/ai-voice-generator"]
-freepik.com##a[data-option="more.tools.aiFreepik"]
+magnific.com##a[href*="/ai-video-generator"]
+magnific.com##a[href*="/video-upscaler"]
+magnific.com##a[href*="/video-lip-sync"]
+magnific.com##a[href*="/video-soundfx"]
+magnific.com##a[href*="/video-editor"]
+magnific.com##a[href*="/icon-generator"]
+magnific.com##a[href*="/ai-voice-generator"]
+magnific.com##a[data-option="more.tools.aiMagnific"]
 ! Снизу кнопка "Другое"
-ru.freepik.com#?#button:-abp-contains(Другое)
+magnific.com#?#button:-abp-contains(Другое)
 
 
 
@@ -237,47 +237,47 @@ ru.freepik.com#?#button:-abp-contains(Другое)
 
 !!! Pikaso
 ! Снизу справа кнопка Help
-freepik.com###headlessui-menu-button-1
+magnific.com###headlessui-menu-button-1
 
 ! Слева в бургере пункт AI
-freepik.com##a[href="https://www.freepik.com/ai"]
+magnific.com##a[href="https://www.magnific.com/ai"]
 
 ! Кнопка Upgrade for more в разделе кредитов
-freepik.com#?#button:-abp-contains(Upgrade for more)
+magnific.com#?#button:-abp-contains(Upgrade for more)
 ! Кнопка See more в разделе кредитов
-freepik.com##a[href^="https://support.freepik.com/s/article/How-many-credits-does-each-tool-consume"]
+magnific.com##a[href^="https://support.magnific.com/s/article/How-many-credits-does-each-tool-consume"]
 
 ! Выпадающий профиль сверху справа
-freepik.com#?#div.px-\[25px\]:-abp-has(div:-abp-contains(Credits))
-freepik.com#?#div.px-\[25px\]:-abp-has(button:-abp-contains(Upgrade))
-freepik.com#?#button:-abp-has(span:-abp-contains(Subscription))
-freepik.com#?#button:-abp-has(span:-abp-contains(Account))
-freepik.com#?#button:-abp-has(span:-abp-contains(Creator profile))
-freepik.com#?#button:-abp-has(span:-abp-contains(Join Discord server))
-freepik.com#?#button:-abp-has(span:-abp-contains(Help center))
+magnific.com#?#div.px-\[25px\]:-abp-has(div:-abp-contains(Credits))
+magnific.com#?#div.px-\[25px\]:-abp-has(button:-abp-contains(Upgrade))
+magnific.com#?#button:-abp-has(span:-abp-contains(Subscription))
+magnific.com#?#button:-abp-has(span:-abp-contains(Account))
+magnific.com#?#button:-abp-has(span:-abp-contains(Creator profile))
+magnific.com#?#button:-abp-has(span:-abp-contains(Join Discord server))
+magnific.com#?#button:-abp-has(span:-abp-contains(Help center))
 
 ! В левой панели кнопки
-freepik.com#?#button:-abp-has(span:-abp-contains(Videos))
-freepik.com#?#button:-abp-has(span:-abp-contains(Lip Sync))
-freepik.com#?#button:-abp-has(span:-abp-contains(Sound FX))
+magnific.com#?#button:-abp-has(span:-abp-contains(Videos))
+magnific.com#?#button:-abp-has(span:-abp-contains(Lip Sync))
+magnific.com#?#button:-abp-has(span:-abp-contains(Sound FX))
 
 ! Страницы в Pikaso
-freepik.com#?#html:-abp-has(h2:-abp-contains(Generate Video))
-freepik.com#?#html:-abp-has(h2:-abp-contains(Video Upscale))
-freepik.com#?#html:-abp-has(h2:-abp-contains(Lip Sync))
-freepik.com#?#html:-abp-has(h2:-abp-contains(Sound Effects))
+magnific.com#?#html:-abp-has(h2:-abp-contains(Generate Video))
+magnific.com#?#html:-abp-has(h2:-abp-contains(Video Upscale))
+magnific.com#?#html:-abp-has(h2:-abp-contains(Lip Sync))
+magnific.com#?#html:-abp-has(h2:-abp-contains(Sound Effects))
 
 ! Страница Ai icon Generator
-freepik.com#?#html:-abp-has(h1:-abp-contains(AI Icon Generator))
-freepik.com#?#html:-abp-has(h1:-abp-contains(Генератор ИИ-иконок))
+magnific.com#?#html:-abp-has(h1:-abp-contains(AI Icon Generator))
+magnific.com#?#html:-abp-has(h1:-abp-contains(Генератор ИИ-иконок))
 
 ! Нейро фотосессии (5500 кредитов)
-freepik.com#?#div:-abp-has(button:-abp-contains(New character))
-freepik.com#?#div:-abp-has(button:-abp-contains(Create your character))
-freepik.com#?#div:-abp-has(button:-abp-contains(New object))
-freepik.com#?#div:-abp-has(button:-abp-contains(Create your object))
-freepik.com#?#button:has(span:has-text(Character))
-freepik.com#?#button:has(span:has-text(Object))
+magnific.com#?#div:-abp-has(button:-abp-contains(New character))
+magnific.com#?#div:-abp-has(button:-abp-contains(Create your character))
+magnific.com#?#div:-abp-has(button:-abp-contains(New object))
+magnific.com#?#div:-abp-has(button:-abp-contains(Create your object))
+magnific.com#?#button:has(span:has-text(Character))
+magnific.com#?#button:has(span:has-text(Object))
 
 
 
@@ -285,28 +285,28 @@ freepik.com#?#button:has(span:has-text(Object))
 
 !!! Tunes
 ! Профиль сверху справа
-freepik.com##a[href*="freepik.com/profile/my_subscriptions?origin=tunes"]
+magnific.com##a[href*="magnific.com/profile/my_subscriptions?origin=tunes"]
 ! Кнопка вопросика
-freepik.com##button[title="Help and resources"]
+magnific.com##button[title="Help and resources"]
 
 ! В разделе "Sound effects" кнопка Generate
-freepik.com##a[href*="/sound-effects/generator"]
+magnific.com##a[href*="/sound-effects/generator"]
 
 ! Страница генерации звуковых эффектов
-freepik.com#?#html:-abp-has(h6:-abp-contains(Sound effects generator))
+magnific.com#?#html:-abp-has(h6:-abp-contains(Sound effects generator))
 
 ! Video to sound effects генерация
-freepik.com#?#html:-abp-has(h6:-abp-contains(Video to sound effects (MMaudio)))
+magnific.com#?#html:-abp-has(h6:-abp-contains(Video to sound effects (MMaudio)))
 
 
 
 
 !!! Assistant
-freepik.com#?#div:-abp-has(button:-abp-contains(GPT-4o))
-freepik.com#?#div:-abp-has(button:-abp-contains(GGPT-4o - High))
-freepik.com#?#a:-abp-has(button:-abp-contains(Assistant))
-freepik.com##a[href*="/pikaso/assistant"]
-freepik.com##a[data-option="more.tools.aiassistant"]
+magnific.com#?#div:-abp-has(button:-abp-contains(GPT-4o))
+magnific.com#?#div:-abp-has(button:-abp-contains(GGPT-4o - High))
+magnific.com#?#a:-abp-has(button:-abp-contains(Assistant))
+magnific.com##a[href*="/pikaso/assistant"]
+magnific.com##a[data-option="more.tools.aiassistant"]
 
 
 
@@ -315,14 +315,14 @@ freepik.com##a[data-option="more.tools.aiassistant"]
 
 
 !!! Авторизация
-freepik.com##.have-account
-freepik.com###ot-sdk-btn
-freepik.com###google-sign-button
-freepik.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
-freepik.com##.form-item--email
-freepik.com##.form-item--password
-freepik.com##.not-remember-password
-freepik.com##.sso-button
+magnific.com##.have-account
+magnific.com###ot-sdk-btn
+magnific.com###google-sign-button
+magnific.com##button.button--with-icon.button--outline.button.main-button:nth-of-type(1)
+magnific.com##.form-item--email
+magnific.com##.form-item--password
+magnific.com##.not-remember-password
+magnific.com##.sso-button
 
 
 
